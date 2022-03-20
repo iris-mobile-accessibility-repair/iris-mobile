@@ -1,0 +1,8 @@
+Text contrast
+com.mediosgt.radiofantasia:id/textView3
+The item's text contrast ratio is 2.34. This ratio is based on an estimated foreground color of #FCFDFD and an estimated background color of #95ACAE. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.mediosgt.radiofantasia:id/textView1
+The item's text contrast ratio is 3.99. This ratio is based on an estimated foreground color of #284B75 and an estimated background color of #A2B0B1. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

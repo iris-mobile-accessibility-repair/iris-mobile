@@ -1,0 +1,4 @@
+Image contrast
+cc.calliope.mini:id/button_back
+The image's contrast ratio is 1.99. This ratio is based on an estimated foreground color of #F60454 and an estimated background color of #00C8C6. Consider increasing this ratio to 3.00 or greater.
+

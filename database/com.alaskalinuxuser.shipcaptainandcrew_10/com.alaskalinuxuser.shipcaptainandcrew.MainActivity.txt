@@ -1,0 +1,40 @@
+Text contrast
+com.alaskalinuxuser.shipcaptainandcrew:id/textView2
+The item's text contrast ratio is 2.93. This ratio is based on an estimated foreground color of #636563 and an estimated background color of #181C18. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.alaskalinuxuser.shipcaptainandcrew:id/aboutButton
+The item's text contrast ratio is 1.00. This ratio is based on an estimated foreground color of #111111 and an estimated background color of #111111. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.alaskalinuxuser.shipcaptainandcrew:id/highScoreText
+The item's text contrast ratio is 2.03. This ratio is based on an estimated foreground color of #63696B and an estimated background color of #313C42. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.alaskalinuxuser.shipcaptainandcrew:id/remainingRolls
+The item's text contrast ratio is 1.32. This ratio is based on an estimated foreground color of #212C29 and an estimated background color of #101010. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.alaskalinuxuser.shipcaptainandcrew:id/scoreText
+The item's text contrast ratio is 1.00. This ratio is based on an estimated foreground color of #111111 and an estimated background color of #111111. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+com.alaskalinuxuser.shipcaptainandcrew:id/twoPlayers
+The image's contrast ratio is 1.41. This ratio is based on an estimated foreground color of #293031 and an estimated background color of #101010. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.alaskalinuxuser.shipcaptainandcrew:id/imageView1
+The image's contrast ratio is 1.44. This ratio is based on an estimated foreground color of #313839 and an estimated background color of #181C18. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.alaskalinuxuser.shipcaptainandcrew:id/imageView2
+The image's contrast ratio is 1.10. This ratio is based on an estimated foreground color of #181C18 and an estimated background color of #101010. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.alaskalinuxuser.shipcaptainandcrew:id/imageView4
+The image's contrast ratio is 1.00. This ratio is based on an estimated foreground color of #111111 and an estimated background color of #111111. Consider increasing this ratio to 3.00 or greater.
+
+Text contrast
+com.alaskalinuxuser.shipcaptainandcrew:id/textView3
+The item's text contrast ratio is 3.23. This ratio is based on an estimated foreground color of #B5BABD and an estimated background color of #5A6163. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

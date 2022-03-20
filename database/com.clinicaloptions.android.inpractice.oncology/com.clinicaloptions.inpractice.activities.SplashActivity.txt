@@ -1,0 +1,16 @@
+Text contrast
+com.clinicaloptions.android.inpractice.oncology:id/usernameEdit
+The item's text contrast ratio is 2.72. This ratio is based on an estimated foreground color of #ED7E53 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.clinicaloptions.android.inpractice.oncology:id/forgotPasswordText
+The item's text contrast ratio is 2.72. This ratio is based on an estimated foreground color of #ED7E53 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.clinicaloptions.android.inpractice.oncology:id/loginButton
+The item's text contrast ratio is 2.72. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #ED7E53. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.clinicaloptions.android.inpractice.oncology:id/notRegisteredText
+The item's text contrast ratio is 2.72. This ratio is based on an estimated foreground color of #ED7E53 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

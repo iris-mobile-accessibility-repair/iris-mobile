@@ -1,0 +1,8 @@
+Text contrast
+android:id/button2
+The item's text contrast ratio is 1.95. This ratio is based on an estimated foreground color of #FFA70B and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+android:id/button1
+The item's text contrast ratio is 1.95. This ratio is based on an estimated foreground color of #FFA70B and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

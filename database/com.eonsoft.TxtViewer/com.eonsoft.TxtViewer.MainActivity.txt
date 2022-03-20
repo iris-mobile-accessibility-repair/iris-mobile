@@ -1,0 +1,4 @@
+Text contrast
+com.eonsoft.TxtViewer:id/buttonNowPage
+The item's text contrast ratio is 1.21. This ratio is based on an estimated foreground color of #7EBDDC and an estimated background color of #8AD0F2. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

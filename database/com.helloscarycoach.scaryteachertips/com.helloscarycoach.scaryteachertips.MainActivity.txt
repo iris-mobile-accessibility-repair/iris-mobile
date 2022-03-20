@@ -1,0 +1,32 @@
+Text contrast
+[42,101][929,172]
+The item's text contrast ratio is 2.52. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #D5973D. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[52,262][1028,350]
+The item's text contrast ratio is 2.52. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #D5973D. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[52,454][1028,542]
+The item's text contrast ratio is 2.52. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #D5973D. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[52,646][1028,734]
+The item's text contrast ratio is 2.52. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #D5973D. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[52,838][1028,926]
+The item's text contrast ratio is 2.52. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #D5973D. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[52,1030][1028,1118]
+The item's text contrast ratio is 2.52. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #D5973D. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.helloscarycoach.scaryteachertips:id/text1
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #E6C18B and an estimated background color of #D5973D. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.helloscarycoach.scaryteachertips:id/text2
+The item's text contrast ratio is 1.34. This ratio is based on an estimated foreground color of #E2B677 and an estimated background color of #D5973D. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

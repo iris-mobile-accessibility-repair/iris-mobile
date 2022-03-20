@@ -1,0 +1,20 @@
+Text contrast
+co.garmax.materialflashlight:id/radio_torch
+The item's text contrast ratio is 2.89. This ratio is based on an estimated foreground color of #448AFF and an estimated background color of #F6ECF8. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+co.garmax.materialflashlight:id/radio_sos
+The item's text contrast ratio is 2.89. This ratio is based on an estimated foreground color of #448AFF and an estimated background color of #F6ECF8. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+co.garmax.materialflashlight:id/fab
+The image's contrast ratio is 2.89. This ratio is based on an estimated foreground color of #F6ECF8 and an estimated background color of #448AFF. Consider increasing this ratio to 3.00 or greater.
+
+Text contrast
+co.garmax.materialflashlight:id/radio_screen
+The item's text contrast ratio is 4.47. This ratio is based on an estimated foreground color of #716C72 and an estimated background color of #F6ECF8. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+co.garmax.materialflashlight:id/text_version
+The item's text contrast ratio is 4.04. This ratio is based on an estimated foreground color of #67576A and an estimated background color of #E1BEE7. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

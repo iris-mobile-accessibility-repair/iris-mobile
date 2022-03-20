@@ -1,0 +1,12 @@
+Text contrast
+com.feeperfect.feemwifi.free:id/lbl_feem_item_title
+The item's text contrast ratio is 2.23. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #68C168. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.feeperfect.feemwifi.free:id/icon
+The item's text contrast ratio is 2.23. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #68C168. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.feeperfect.feemwifi.free:id/icon
+The item's text contrast ratio is 2.23. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #68C168. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

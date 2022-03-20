@@ -1,0 +1,12 @@
+Text contrast
+[18,1134][1062,1227]
+The item's text contrast ratio is 2.45. This ratio is based on an estimated foreground color of #FCFCFC and an estimated background color of #22B5B7. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[18,334][1062,423]
+The item's text contrast ratio is 3.11. This ratio is based on an estimated foreground color of #0D6A70 and an estimated background color of #080B0E. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.xluxury.wallpapershd:id/version_name_id
+The item's text contrast ratio is 3.11. This ratio is based on an estimated foreground color of #0D6A70 and an estimated background color of #080B0E. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

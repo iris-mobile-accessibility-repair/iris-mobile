@@ -1,0 +1,8 @@
+Text contrast
+dev.corruptedark.diditakemymeds:id/dose_unit_input
+The item's text contrast ratio is 1.19. This ratio is based on an estimated foreground color of #151515 and an estimated background color of #252525. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+dev.corruptedark.diditakemymeds:id/text_input_end_icon
+The image's contrast ratio is 1.19. This ratio is based on an estimated foreground color of #151515 and an estimated background color of #252525. Consider increasing this ratio to 3.00 or greater.
+

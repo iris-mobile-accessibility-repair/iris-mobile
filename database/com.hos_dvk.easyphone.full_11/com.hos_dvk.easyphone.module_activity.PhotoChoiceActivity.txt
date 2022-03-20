@@ -1,0 +1,8 @@
+Text contrast
+com.hos_dvk.easyphone.full:id/i_choice_gallery
+The item's text contrast ratio is 2.30. This ratio is based on an estimated foreground color of #FCE4DC and an estimated background color of #F07850. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.hos_dvk.easyphone.full:id/i_choice_camera
+The item's text contrast ratio is 3.83. This ratio is based on an estimated foreground color of #99BCCE and an estimated background color of #005884. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

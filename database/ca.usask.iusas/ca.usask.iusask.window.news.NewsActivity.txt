@@ -1,0 +1,4 @@
+Image contrast
+[0,63][147,210]
+The image's contrast ratio is 2.00. This ratio is based on an estimated foreground color of #DDE7C4 and an estimated background color of #8DAD38. Consider increasing this ratio to 3.00 or greater.
+

@@ -1,0 +1,16 @@
+Text contrast
+[407,251][673,294]
+The item's text contrast ratio is 4.04. This ratio is based on an estimated foreground color of #32481A and an estimated background color of #7CB342. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+[798,247][1002,298]
+The item's text contrast ratio is 4.04. This ratio is based on an estimated foreground color of #32481A and an estimated background color of #7CB342. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+at.bitfire.davdroid:id/warranty
+The item's text contrast ratio is 4.46. This ratio is based on an estimated foreground color of #6D6D6D and an estimated background color of #EEEEEE. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+at.bitfire.davdroid:id/license_text
+The item's text contrast ratio is 4.46. This ratio is based on an estimated foreground color of #6D6D6D and an estimated background color of #EEEEEE. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

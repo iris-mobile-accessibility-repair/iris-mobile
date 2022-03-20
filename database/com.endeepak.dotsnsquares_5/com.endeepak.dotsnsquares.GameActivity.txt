@@ -1,0 +1,16 @@
+Text contrast
+com.endeepak.dotsnsquares:id/player1Name
+The item's text contrast ratio is 4.41. This ratio is based on an estimated foreground color of #008600 and an estimated background color of #000000. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.endeepak.dotsnsquares:id/player2Name
+The item's text contrast ratio is 4.33. This ratio is based on an estimated foreground color of #E50000 and an estimated background color of #000000. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.endeepak.dotsnsquares:id/player1Score
+The item's text contrast ratio is 4.41. This ratio is based on an estimated foreground color of #008600 and an estimated background color of #000000. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.endeepak.dotsnsquares:id/player2Score
+The item's text contrast ratio is 4.33. This ratio is based on an estimated foreground color of #E50000 and an estimated background color of #000000. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

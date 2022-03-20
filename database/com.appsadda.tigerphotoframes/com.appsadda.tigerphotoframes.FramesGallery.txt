@@ -1,0 +1,4 @@
+Text contrast
+com.appsadda.tigerphotoframes:id/textView1
+The item's text contrast ratio is 1.46. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #FFCC99. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

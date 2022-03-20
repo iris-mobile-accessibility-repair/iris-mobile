@@ -1,0 +1,12 @@
+Image contrast
+com.truecalleridname.idlocationtracker:id/btn_call
+The image's contrast ratio is 2.20. This ratio is based on an estimated foreground color of #FAFAFA and an estimated background color of #00BCD4. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.truecalleridname.idlocationtracker:id/btn_device
+The image's contrast ratio is 2.66. This ratio is based on an estimated foreground color of #FAFAFA and an estimated background color of #4CAF50. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.truecalleridname.idlocationtracker:id/btn_location
+The image's contrast ratio is 1.54. This ratio is based on an estimated foreground color of #FAFAFA and an estimated background color of #FFC300. Consider increasing this ratio to 3.00 or greater.
+

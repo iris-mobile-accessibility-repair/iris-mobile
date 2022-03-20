@@ -1,0 +1,32 @@
+Text contrast
+[272,232][493,303]
+The item's text contrast ratio is 2.62. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #FF7474. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[559,240][716,294]
+The item's text contrast ratio is 2.62. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #FF7474. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[782,240][925,294]
+The item's text contrast ratio is 2.62. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #FF7474. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[991,240][1080,294]
+The item's text contrast ratio is 2.62. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #FF7474. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[949,354][1033,433]
+The item's text contrast ratio is 1.93. This ratio is based on an estimated foreground color of #70D200 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[949,752][1033,831]
+The item's text contrast ratio is 1.93. This ratio is based on an estimated foreground color of #70D200 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[949,1150][1033,1229]
+The item's text contrast ratio is 1.93. This ratio is based on an estimated foreground color of #70D200 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[949,1548][1033,1617]
+The item's text contrast ratio is 1.93. This ratio is based on an estimated foreground color of #70D200 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

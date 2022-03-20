@@ -1,0 +1,4 @@
+Text contrast
+[189,101][356,172]
+The item's text contrast ratio is 4.37. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #607D8B. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

@@ -1,0 +1,20 @@
+Text contrast
+[428,262][651,325]
+The item's text contrast ratio is 1.00. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.xlab.xdrop:id/fm
+The item's text contrast ratio is 2.85. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[428,1118][651,1181]
+The item's text contrast ratio is 1.00. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[53,1540][1027,1639]
+The item's text contrast ratio is 1.00. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.xlab.xdrop:id/im
+The item's text contrast ratio is 2.85. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

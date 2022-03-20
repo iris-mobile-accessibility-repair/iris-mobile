@@ -1,0 +1,200 @@
+Text contrast
+com.app.Zensuren:id/button1
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button2
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button3
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button4
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button5
+The item's text contrast ratio is 1.00. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #444444. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button11
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button12
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button13
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button14
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button15
+The item's text contrast ratio is 1.00. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #444444. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button21
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button22
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button23
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button24
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button25
+The item's text contrast ratio is 1.00. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #444444. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button31
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button32
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button33
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button34
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button35
+The item's text contrast ratio is 1.00. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #444444. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button41
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button42
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button43
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button44
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button45
+The item's text contrast ratio is 1.00. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #444444. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button51
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button52
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button53
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button54
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button55
+The item's text contrast ratio is 1.00. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #444444. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button61
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button62
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button63
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button64
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button65
+The item's text contrast ratio is 1.00. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #444444. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button71
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button72
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button73
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button74
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button75
+The item's text contrast ratio is 1.00. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #444444. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button81
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button82
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button83
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button84
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button85
+The item's text contrast ratio is 1.00. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #444444. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button91
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button92
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button93
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button94
+The item's text contrast ratio is 1.49. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #5A5E61. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app.Zensuren:id/button95
+The item's text contrast ratio is 1.00. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #444444. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

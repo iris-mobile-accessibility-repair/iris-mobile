@@ -1,0 +1,8 @@
+Text contrast
+com.activitymanager:id/finish
+The item's text contrast ratio is 2.63. This ratio is based on an estimated foreground color of #03A9F4 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[189,144][365,201]
+The item's text contrast ratio is 3.09. This ratio is based on an estimated foreground color of #B3D7EC and an estimated background color of #0079BF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

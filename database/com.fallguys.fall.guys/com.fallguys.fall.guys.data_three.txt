@@ -1,0 +1,8 @@
+Text contrast
+com.fallguys.fall.guys:id/textView7
+The item's text contrast ratio is 2.97. This ratio is based on an estimated foreground color of #FF3BEB and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.fallguys.fall.guys:id/textView
+The item's text contrast ratio is 3.12. This ratio is based on an estimated foreground color of #2196F3 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

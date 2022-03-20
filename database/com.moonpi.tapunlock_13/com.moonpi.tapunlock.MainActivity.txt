@@ -1,0 +1,12 @@
+Text contrast
+android:id/action_bar_title
+The item's text contrast ratio is 4.10. This ratio is based on an estimated foreground color of #0066CC and an estimated background color of #DDDDDD. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.moonpi.tapunlock:id/pinEdit
+The item's text contrast ratio is 3.69. This ratio is based on an estimated foreground color of #808080 and an estimated background color of #F7F7F7. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.moonpi.tapunlock:id/noTags
+The item's text contrast ratio is 4.28. This ratio is based on an estimated foreground color of #696969 and an estimated background color of #E3E3E3. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

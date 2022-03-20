@@ -1,0 +1,12 @@
+Text contrast
+com.adgad.kboard:id/text
+The item's text contrast ratio is 1.32. This ratio is based on an estimated foreground color of #FCDD92 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.adgad.kboard:id/text
+The item's text contrast ratio is 3.67. This ratio is based on an estimated foreground color of #009688 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.adgad.kboard:id/text
+The item's text contrast ratio is 3.67. This ratio is based on an estimated foreground color of #009688 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

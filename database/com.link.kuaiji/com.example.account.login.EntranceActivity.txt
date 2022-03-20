@@ -1,0 +1,40 @@
+Text contrast
+com.link.kuaiji:id/textView1
+The item's text contrast ratio is 1.82. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #73D39C. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.link.kuaiji:id/remindText
+The item's text contrast ratio is 1.82. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #73D39C. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[0,181][360,286]
+The item's text contrast ratio is 2.38. This ratio is based on an estimated foreground color of #45C01A and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.link.kuaiji:id/month
+The item's text contrast ratio is 2.67. This ratio is based on an estimated foreground color of #3CB371 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.link.kuaiji:id/year
+The item's text contrast ratio is 2.67. This ratio is based on an estimated foreground color of #3CB371 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.link.kuaiji:id/time
+The item's text contrast ratio is 1.82. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #73D39C. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.link.kuaiji:id/header_income_outcome
+The item's text contrast ratio is 1.82. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #73D39C. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.link.kuaiji:id/calander
+The item's text contrast ratio is 1.82. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #73D39C. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+com.link.kuaiji:id/i1
+The image's contrast ratio is 1.25. This ratio is based on an estimated foreground color of #67BD8B and an estimated background color of #73D39C. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.link.kuaiji:id/i2
+The image's contrast ratio is 1.82. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #73D39C. Consider increasing this ratio to 3.00 or greater.
+

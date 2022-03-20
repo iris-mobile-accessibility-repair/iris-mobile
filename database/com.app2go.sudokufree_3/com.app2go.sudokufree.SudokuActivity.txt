@@ -1,0 +1,20 @@
+Image contrast
+[932,63][1080,189]
+The image's contrast ratio is 2.10. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #DDDDDD. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.app2go.sudokufree:id/buttonBack
+The image's contrast ratio is 1.30. This ratio is based on an estimated foreground color of #A7A29B and an estimated background color of #81CE09. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.app2go.sudokufree:id/buttonNext
+The image's contrast ratio is 1.23. This ratio is based on an estimated foreground color of #96918A and an estimated background color of #A7A29C. Consider increasing this ratio to 3.00 or greater.
+
+Text contrast
+com.app2go.sudokufree:id/labelPuzzleDifficulty
+The item's text contrast ratio is 4.25. This ratio is based on an estimated foreground color of #222222 and an estimated background color of #8B8378. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.app2go.sudokufree:id/buttonStart
+The item's text contrast ratio is 3.51. This ratio is based on an estimated foreground color of #66635D and an estimated background color of #000000. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

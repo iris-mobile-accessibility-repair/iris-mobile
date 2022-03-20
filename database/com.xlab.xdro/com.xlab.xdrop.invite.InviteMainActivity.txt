@@ -1,0 +1,8 @@
+Text contrast
+com.xlab.xdrop:id/fl
+The item's text contrast ratio is 1.97. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #07D381. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.xlab.xdrop:id/b7
+The item's text contrast ratio is 4.23. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #1777F3. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

@@ -1,0 +1,8 @@
+Text contrast
+com.code61.deadpixel:id/appName
+The item's text contrast ratio is 1.75. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #90CAF9. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.code61.deadpixel:id/infoButton
+The item's text contrast ratio is 1.75. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #90CAF9. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

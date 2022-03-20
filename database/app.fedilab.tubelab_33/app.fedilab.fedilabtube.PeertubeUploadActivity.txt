@@ -1,0 +1,4 @@
+Text contrast
+app.fedilab.tubelab:id/video_title
+The item's text contrast ratio is 2.96. This ratio is based on an estimated foreground color of #F2690D and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

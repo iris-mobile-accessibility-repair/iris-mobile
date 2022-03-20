@@ -1,0 +1,4 @@
+Image contrast
+com.nextcloud.talk2:id/exo_shuffle
+The image's contrast ratio is 2.52. This ratio is based on an estimated foreground color of #4E4E4E and an estimated background color of #000000. Consider increasing this ratio to 3.00 or greater.
+

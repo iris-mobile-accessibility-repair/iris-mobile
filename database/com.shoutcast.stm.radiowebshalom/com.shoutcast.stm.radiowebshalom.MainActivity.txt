@@ -1,0 +1,8 @@
+Text contrast
+com.shoutcast.stm.radiowebshalom:id/view_main_text_status
+The item's text contrast ratio is 2.12. This ratio is based on an estimated foreground color of #817D77 and an estimated background color of #3F3F9F. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.shoutcast.stm.radiowebshalom:id/view_main_text_meta_genre
+The item's text contrast ratio is 1.22. This ratio is based on an estimated foreground color of #000C1C and an estimated background color of #00007F. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

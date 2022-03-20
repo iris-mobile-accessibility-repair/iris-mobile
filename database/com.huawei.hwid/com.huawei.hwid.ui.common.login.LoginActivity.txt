@@ -1,0 +1,12 @@
+Text contrast
+com.huawei.hwid:id/email_name
+The item's text contrast ratio is 1.41. This ratio is based on an estimated foreground color of #D2D2D2 and an estimated background color of #F7F7F7. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.huawei.hwid:id/email_password
+The item's text contrast ratio is 1.41. This ratio is based on an estimated foreground color of #D2D2D2 and an estimated background color of #F7F7F7. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.huawei.hwid:id/id_txt
+The item's text contrast ratio is 2.73. This ratio is based on an estimated foreground color of #979797 and an estimated background color of #F7F7F7. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

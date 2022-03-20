@@ -1,0 +1,8 @@
+Text contrast
+com.bobbyrne01.howfardoyouswim:id/distance
+The item's text contrast ratio is 2.79. This ratio is based on an estimated foreground color of #0099CC and an estimated background color of #EDEDED. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.bobbyrne01.howfardoyouswim:id/numOfLengthsInput
+The item's text contrast ratio is 3.40. This ratio is based on an estimated foreground color of #808080 and an estimated background color of #EEEEEE. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

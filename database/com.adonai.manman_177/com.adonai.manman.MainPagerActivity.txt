@@ -1,0 +1,4 @@
+Text contrast
+android:id/search_src_text
+The item's text contrast ratio is 2.68. This ratio is based on an estimated foreground color of #9E9E9E and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

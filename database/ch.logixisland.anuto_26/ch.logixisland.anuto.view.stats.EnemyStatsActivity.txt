@@ -1,0 +1,12 @@
+Text contrast
+ch.logixisland.anuto:id/txt_weak_against
+The item's text contrast ratio is 4.03. This ratio is based on an estimated foreground color of #009000 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+ch.logixisland.anuto:id/txt_weak_against
+The item's text contrast ratio is 4.03. This ratio is based on an estimated foreground color of #009000 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+ch.logixisland.anuto:id/txt_weak_against
+The item's text contrast ratio is 4.03. This ratio is based on an estimated foreground color of #009000 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

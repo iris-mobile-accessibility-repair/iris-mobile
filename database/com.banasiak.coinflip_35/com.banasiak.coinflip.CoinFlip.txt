@@ -1,0 +1,4 @@
+Text contrast
+com.banasiak.coinflip:id/result_text_view
+The item's text contrast ratio is 1.03. This ratio is based on an estimated foreground color of #171A1E and an estimated background color of #191D21. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

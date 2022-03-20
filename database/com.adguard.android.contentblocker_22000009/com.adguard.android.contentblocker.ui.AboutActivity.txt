@@ -1,0 +1,44 @@
+Text contrast
+[189,101][331,172]
+The item's text contrast ratio is 2.78. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #4CAF50. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.adguard.android.contentblocker:id/copyrightInfo
+The item's text contrast ratio is 2.85. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.adguard.android.contentblocker:id/adguardComLinkTextView
+The item's text contrast ratio is 2.66. This ratio is based on an estimated foreground color of #39B54A and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.adguard.android.contentblocker:id/forumAdguardComLinkTextView
+The item's text contrast ratio is 2.66. This ratio is based on an estimated foreground color of #39B54A and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.adguard.android.contentblocker:id/githubLinkTextView
+The item's text contrast ratio is 2.66. This ratio is based on an estimated foreground color of #39B54A and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.adguard.android.contentblocker:id/eulaLinkTextView
+The item's text contrast ratio is 2.66. This ratio is based on an estimated foreground color of #39B54A and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.adguard.android.contentblocker:id/privacyPolicyLinkTextView
+The item's text contrast ratio is 2.66. This ratio is based on an estimated foreground color of #39B54A and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[26,1088][1054,1278]
+The item's text contrast ratio is 2.85. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+[0,63][147,210]
+The image's contrast ratio is 2.78. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #4CAF50. Consider increasing this ratio to 3.00 or greater.
+
+Text contrast
+com.adguard.android.contentblocker:id/rateAppButton
+The item's text contrast ratio is 4.12. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #388E3C. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.adguard.android.contentblocker:id/issuesButton
+The item's text contrast ratio is 4.12. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #388E3C. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

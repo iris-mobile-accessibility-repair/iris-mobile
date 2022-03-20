@@ -1,0 +1,4 @@
+Image contrast
+com.qrcode.qrmaker.qrreader.qrscanner:id/ad_remove_main_id
+The image's contrast ratio is 2.68. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #FF7604. Consider increasing this ratio to 3.00 or greater.
+

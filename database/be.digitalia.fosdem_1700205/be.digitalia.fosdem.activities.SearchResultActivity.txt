@@ -1,0 +1,8 @@
+Text contrast
+[189,101][220,172]
+The item's text contrast ratio is 1.00. This ratio is based on an estimated foreground color of #A91991 and an estimated background color of #A91991. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+be.digitalia.fosdem:id/search_src_text
+The item's text contrast ratio is 2.59. This ratio is based on an estimated foreground color of #D48CC8 and an estimated background color of #A91991. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

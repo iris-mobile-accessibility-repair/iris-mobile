@@ -1,0 +1,60 @@
+Text contrast
+[189,101][450,172]
+The item's text contrast ratio is 2.03. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #3DC2FF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[32,247][218,298]
+The item's text contrast ratio is 1.42. This ratio is based on an estimated foreground color of #9EE1FF and an estimated background color of #3DC2FF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[282,247][419,298]
+The item's text contrast ratio is 2.03. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #3DC2FF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[483,247][661,298]
+The item's text contrast ratio is 1.42. This ratio is based on an estimated foreground color of #9EE1FF and an estimated background color of #3DC2FF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[725,247][891,298]
+The item's text contrast ratio is 1.42. This ratio is based on an estimated foreground color of #9EE1FF and an estimated background color of #3DC2FF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[955,247][1080,298]
+The item's text contrast ratio is 1.42. This ratio is based on an estimated foreground color of #9EE1FF and an estimated background color of #3DC2FF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+[0,63][147,210]
+The image's contrast ratio is 2.03. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #3DC2FF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.galaxy.funnyappforu:id/img_wallpaper
+The image's contrast ratio is 1.44. This ratio is based on an estimated foreground color of #4A96BA and an estimated background color of #82B2C9. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+[109,535][251,677]
+The image's contrast ratio is 1.21. This ratio is based on an estimated foreground color of #9A7D79 and an estimated background color of #8C6F6B. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+[469,535][611,677]
+The image's contrast ratio is 1.95. This ratio is based on an estimated foreground color of #A295B1 and an estimated background color of #DFD3E1. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.galaxy.funnyappforu:id/img_wallpaper
+The image's contrast ratio is 2.91. This ratio is based on an estimated foreground color of #575757 and an estimated background color of #000000. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.galaxy.funnyappforu:id/img_wallpaper
+The image's contrast ratio is 2.69. This ratio is based on an estimated foreground color of #774635 and an estimated background color of #000200. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+[829,1075][971,1217]
+The image's contrast ratio is 2.05. This ratio is based on an estimated foreground color of #563B2D and an estimated background color of #010101. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.galaxy.funnyappforu:id/img_wallpaper
+The image's contrast ratio is 2.08. This ratio is based on an estimated foreground color of #79A0CB and an estimated background color of #44689C. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+[469,1615][611,1757]
+The image's contrast ratio is 1.85. This ratio is based on an estimated foreground color of #779AC4 and an estimated background color of #4A6BA0. Consider increasing this ratio to 3.00 or greater.
+

@@ -1,0 +1,20 @@
+Text contrast
+[21,287][1059,434]
+The item's text contrast ratio is 2.16. This ratio is based on an estimated foreground color of #7CB342 and an estimated background color of #EEEEEE. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[21,490][1059,637]
+The item's text contrast ratio is 2.65. This ratio is based on an estimated foreground color of #939393 and an estimated background color of #EEEEEE. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[21,792][1059,939]
+The item's text contrast ratio is 2.65. This ratio is based on an estimated foreground color of #939393 and an estimated background color of #EEEEEE. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[21,995][1059,1142]
+The item's text contrast ratio is 2.65. This ratio is based on an estimated foreground color of #939393 and an estimated background color of #EEEEEE. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+at.bitfire.davdroid:id/add_mount
+The item's text contrast ratio is 2.50. This ratio is based on an estimated foreground color of #7CB342 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

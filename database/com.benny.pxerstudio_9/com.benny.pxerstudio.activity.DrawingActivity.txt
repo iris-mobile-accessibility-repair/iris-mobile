@@ -1,0 +1,16 @@
+Image contrast
+com.benny.pxerstudio:id/drawing_fab_undo
+The image's contrast ratio is 2.82. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #7986CB. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.benny.pxerstudio:id/drawing_fab_redo
+The image's contrast ratio is 2.82. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #7986CB. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.benny.pxerstudio:id/drawing_fab_dropper
+The image's contrast ratio is 2.82. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #7986CB. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.benny.pxerstudio:id/drawing_tools_fab
+The image's contrast ratio is 2.82. This ratio is based on an estimated foreground color of #444444 and an estimated background color of #7986CB. Consider increasing this ratio to 3.00 or greater.
+

@@ -1,0 +1,36 @@
+Text contrast
+com.andybotting.tramhunter:id/stop_distance
+The item's text contrast ratio is 3.34. This ratio is based on an estimated foreground color of #007BFF and an estimated background color of #EBEBEB. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.andybotting.tramhunter:id/stop_distance
+The item's text contrast ratio is 3.43. This ratio is based on an estimated foreground color of #007BFF and an estimated background color of #EEEEEE. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.andybotting.tramhunter:id/stop_distance
+The item's text contrast ratio is 3.49. This ratio is based on an estimated foreground color of #007BFF and an estimated background color of #F0F0F0. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.andybotting.tramhunter:id/stop_distance
+The item's text contrast ratio is 3.55. This ratio is based on an estimated foreground color of #007BFF and an estimated background color of #F2F2F2. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.andybotting.tramhunter:id/stop_distance
+The item's text contrast ratio is 3.65. This ratio is based on an estimated foreground color of #007BFF and an estimated background color of #F5F5F5. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.andybotting.tramhunter:id/stop_distance
+The item's text contrast ratio is 3.71. This ratio is based on an estimated foreground color of #007BFF and an estimated background color of #F7F7F7. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.andybotting.tramhunter:id/stop_distance
+The item's text contrast ratio is 3.78. This ratio is based on an estimated foreground color of #007BFF and an estimated background color of #F9F9F9. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.andybotting.tramhunter:id/stop_distance
+The item's text contrast ratio is 3.88. This ratio is based on an estimated foreground color of #007BFF and an estimated background color of #FCFCFC. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.andybotting.tramhunter:id/stop_distance
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #007BFF and an estimated background color of #FEFEFE. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

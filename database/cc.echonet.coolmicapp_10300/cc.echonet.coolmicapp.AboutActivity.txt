@@ -1,0 +1,4 @@
+Text contrast
+cc.echonet.coolmicapp:id/cmdOpenLicenses
+The item's text contrast ratio is 2.14. This ratio is based on an estimated foreground color of #404447 and an estimated background color of #000000. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

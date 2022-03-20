@@ -1,0 +1,4 @@
+Text contrast
+br.odb.knights:id/tvTitle
+The item's text contrast ratio is 2.50. This ratio is based on an estimated foreground color of #434242 and an estimated background color of #FF0000. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

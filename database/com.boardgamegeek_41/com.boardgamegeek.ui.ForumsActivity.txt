@@ -1,0 +1,40 @@
+Text contrast
+com.boardgamegeek:id/lastpost
+The item's text contrast ratio is 2.85. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.boardgamegeek:id/lastpost
+The item's text contrast ratio is 2.85. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.boardgamegeek:id/lastpost
+The item's text contrast ratio is 2.85. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.boardgamegeek:id/lastpost
+The item's text contrast ratio is 2.85. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.boardgamegeek:id/lastpost
+The item's text contrast ratio is 2.85. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.boardgamegeek:id/lastpost
+The item's text contrast ratio is 2.85. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.boardgamegeek:id/lastpost
+The item's text contrast ratio is 2.85. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.boardgamegeek:id/lastpost
+The item's text contrast ratio is 2.85. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.boardgamegeek:id/lastpost
+The item's text contrast ratio is 2.85. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+[932,63][1080,189]
+The image's contrast ratio is 2.10. This ratio is based on an estimated foreground color of #9999A2 and an estimated background color of #DDDDEC. Consider increasing this ratio to 3.00 or greater.
+

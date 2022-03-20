@@ -1,0 +1,8 @@
+Text contrast
+ca.andries.portknocker:id/nameTxt
+The item's text contrast ratio is 1.58. This ratio is based on an estimated foreground color of #FFC516 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+ca.andries.portknocker:id/hostTxt
+The item's text contrast ratio is 3.03. This ratio is based on an estimated foreground color of #949494 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

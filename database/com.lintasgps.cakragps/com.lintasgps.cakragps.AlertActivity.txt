@@ -1,0 +1,8 @@
+Text contrast
+android:id/empty
+The item's text contrast ratio is 2.12. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #AAAAFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+com.lintasgps.cakragps:id/actionbar_item
+The image's contrast ratio is 1.65. This ratio is based on an estimated foreground color of #878A94 and an estimated background color of #3A5FCC. Consider increasing this ratio to 3.00 or greater.
+

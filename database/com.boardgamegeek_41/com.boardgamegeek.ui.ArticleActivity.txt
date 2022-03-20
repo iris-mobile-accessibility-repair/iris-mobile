@@ -1,0 +1,8 @@
+Text contrast
+com.boardgamegeek:id/article_editdate
+The item's text contrast ratio is 2.77. This ratio is based on an estimated foreground color of #8E8E8E and an estimated background color of #ECECEC. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+[932,63][1080,189]
+The image's contrast ratio is 2.10. This ratio is based on an estimated foreground color of #9999A2 and an estimated background color of #DDDDEC. Consider increasing this ratio to 3.00 or greater.
+

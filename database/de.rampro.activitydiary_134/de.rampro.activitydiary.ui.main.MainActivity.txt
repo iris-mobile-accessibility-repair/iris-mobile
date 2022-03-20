@@ -1,0 +1,64 @@
+Text contrast
+[189,73][505,144]
+The item's text contrast ratio is 2.94. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #FF6600. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[189,144][567,200]
+The item's text contrast ratio is 2.10. This ratio is based on an estimated foreground color of #FFD1B3 and an estimated background color of #FF6600. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[490,369][584,420]
+The item's text contrast ratio is 1.42. This ratio is based on an estimated foreground color of #BDBDBD and an estimated background color of #E0E0E0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[813,369][982,420]
+The item's text contrast ratio is 1.42. This ratio is based on an estimated foreground color of #BDBDBD and an estimated background color of #E0E0E0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+[0,63][147,210]
+The image's contrast ratio is 2.94. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #FF6600. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+de.rampro.activitydiary:id/search_button
+The image's contrast ratio is 2.94. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #FF6600. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+de.rampro.activitydiary:id/fab_attach_picture
+The image's contrast ratio is 1.55. This ratio is based on an estimated foreground color of #E0E0E0 and an estimated background color of #FFA000. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+de.rampro.activitydiary:id/fab_edit_note
+The image's contrast ratio is 1.55. This ratio is based on an estimated foreground color of #E0E0E0 and an estimated background color of #FFA000. Consider increasing this ratio to 3.00 or greater.
+
+Text contrast
+de.rampro.activitydiary:id/activity_name
+The item's text contrast ratio is 3.42. This ratio is based on an estimated foreground color of #424242 and an estimated background color of #FF6600. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+de.rampro.activitydiary:id/duration_label
+The item's text contrast ratio is 4.28. This ratio is based on an estimated foreground color of #676767 and an estimated background color of #E0E0E0. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+de.rampro.activitydiary:id/avg_duration_label
+The item's text contrast ratio is 4.28. This ratio is based on an estimated foreground color of #676767 and an estimated background color of #E0E0E0. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+de.rampro.activitydiary:id/start_of_last_label
+The item's text contrast ratio is 4.28. This ratio is based on an estimated foreground color of #676767 and an estimated background color of #E0E0E0. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+de.rampro.activitydiary:id/total_today_label
+The item's text contrast ratio is 4.28. This ratio is based on an estimated foreground color of #676767 and an estimated background color of #E0E0E0. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+de.rampro.activitydiary:id/activity_name
+The item's text contrast ratio is 3.85. This ratio is based on an estimated foreground color of #FEFEEE and an estimated background color of #E64A19. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+de.rampro.activitydiary:id/activity_name
+The item's text contrast ratio is 3.79. This ratio is based on an estimated foreground color of #FEFEEE and an estimated background color of #0288D1. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+de.rampro.activitydiary:id/activity_name
+The item's text contrast ratio is 4.04. This ratio is based on an estimated foreground color of #FEFEEE and an estimated background color of #388E3C. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

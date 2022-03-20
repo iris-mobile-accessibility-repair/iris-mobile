@@ -1,0 +1,8 @@
+Text contrast
+com.qrcode.qrmaker.qrreader.qrscanner:id/save_btn
+The item's text contrast ratio is 2.59. This ratio is based on an estimated foreground color of #00A750 and an estimated background color of #EAE8E8. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[0,1337][1080,1388]
+The item's text contrast ratio is 1.00. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

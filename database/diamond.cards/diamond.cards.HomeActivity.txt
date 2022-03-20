@@ -1,0 +1,64 @@
+Text contrast
+android:id/title
+The item's text contrast ratio is 1.35. This ratio is based on an estimated foreground color of #999998 and an estimated background color of #828282. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+diamond.cards:id/image
+The image's contrast ratio is 2.40. This ratio is based on an estimated foreground color of #8A8A8A and an estimated background color of #D7D7D7. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+diamond.cards:id/image
+The image's contrast ratio is 2.40. This ratio is based on an estimated foreground color of #8A8A8A and an estimated background color of #D7D7D7. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+diamond.cards:id/image
+The image's contrast ratio is 2.40. This ratio is based on an estimated foreground color of #8A8A8A and an estimated background color of #D7D7D7. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+diamond.cards:id/image
+The image's contrast ratio is 2.40. This ratio is based on an estimated foreground color of #8A8A8A and an estimated background color of #D7D7D7. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+diamond.cards:id/image
+The image's contrast ratio is 2.40. This ratio is based on an estimated foreground color of #8A8A8A and an estimated background color of #D7D7D7. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+diamond.cards:id/image
+The image's contrast ratio is 2.40. This ratio is based on an estimated foreground color of #8A8A8A and an estimated background color of #D7D7D7. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+diamond.cards:id/image
+The image's contrast ratio is 2.40. This ratio is based on an estimated foreground color of #8A8A8A and an estimated background color of #D7D7D7. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+diamond.cards:id/image
+The image's contrast ratio is 2.40. This ratio is based on an estimated foreground color of #8A8A8A and an estimated background color of #D7D7D7. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+diamond.cards:id/image
+The image's contrast ratio is 2.40. This ratio is based on an estimated foreground color of #8A8A8A and an estimated background color of #D7D7D7. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+diamond.cards:id/image
+The image's contrast ratio is 2.40. This ratio is based on an estimated foreground color of #8A8A8A and an estimated background color of #D7D7D7. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+diamond.cards:id/image
+The image's contrast ratio is 2.40. This ratio is based on an estimated foreground color of #8A8A8A and an estimated background color of #D7D7D7. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+diamond.cards:id/image
+The image's contrast ratio is 1.70. This ratio is based on an estimated foreground color of #9A9A9A and an estimated background color of #C9C9C9. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+diamond.cards:id/image
+The image's contrast ratio is 1.96. This ratio is based on an estimated foreground color of #9A9A9A and an estimated background color of #D7D7D7. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+diamond.cards:id/image
+The image's contrast ratio is 1.90. This ratio is based on an estimated foreground color of #919191 and an estimated background color of #C9C9C9. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+diamond.cards:id/about
+The image's contrast ratio is 2.73. This ratio is based on an estimated foreground color of #007B3D and an estimated background color of #BAB8B9. Consider increasing this ratio to 3.00 or greater.
+

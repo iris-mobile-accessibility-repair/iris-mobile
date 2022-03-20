@@ -1,0 +1,4 @@
+Text contrast
+com.book.bible.tpt:id/button2
+The item's text contrast ratio is 1.33. This ratio is based on an estimated foreground color of #C2C2C2 and an estimated background color of #DFDEDD. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

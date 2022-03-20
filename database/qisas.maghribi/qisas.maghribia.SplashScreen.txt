@@ -1,0 +1,8 @@
+Image contrast
+qisas.maghribia:id/imgAbout
+The image's contrast ratio is 1.33. This ratio is based on an estimated foreground color of #B8541E and an estimated background color of #D96323. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+qisas.maghribia:id/imgSearchNav
+The image's contrast ratio is 1.00. This ratio is based on an estimated foreground color of #101010 and an estimated background color of #101010. Consider increasing this ratio to 3.00 or greater.
+

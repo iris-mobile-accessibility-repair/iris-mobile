@@ -1,0 +1,8 @@
+Text contrast
+com.blippex.app:id/search
+The item's text contrast ratio is 1.61. This ratio is based on an estimated foreground color of #CCCCCC and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.blippex.app:id/textEmpty
+The item's text contrast ratio is 2.85. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

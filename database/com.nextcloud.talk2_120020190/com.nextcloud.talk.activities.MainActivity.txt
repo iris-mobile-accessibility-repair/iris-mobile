@@ -1,0 +1,16 @@
+Text contrast
+com.nextcloud.talk2:id/host_url_input_helper_text
+The item's text contrast ratio is 2.82. This ratio is based on an estimated foreground color of #B3DAEF and an estimated background color of #0082C9. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.nextcloud.talk2:id/helper_text_view
+The item's text contrast ratio is 2.82. This ratio is based on an estimated foreground color of #B3DAEF and an estimated background color of #0082C9. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.nextcloud.talk2:id/cert_text_view
+The item's text contrast ratio is 2.82. This ratio is based on an estimated foreground color of #B3DAEF and an estimated background color of #0082C9. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.nextcloud.talk2:id/serverEntryTextInputEditText
+The item's text contrast ratio is 4.17. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #0082C9. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

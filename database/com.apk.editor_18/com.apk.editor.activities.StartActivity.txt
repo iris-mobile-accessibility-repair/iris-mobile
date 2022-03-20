@@ -1,0 +1,8 @@
+Text contrast
+com.apk.editor:id/text
+The item's text contrast ratio is 3.56. This ratio is based on an estimated foreground color of #4285F4 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+[414,1437][590,1546]
+The item's text contrast ratio is 3.56. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #4285F4. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

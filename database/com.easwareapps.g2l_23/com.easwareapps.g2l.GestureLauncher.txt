@@ -1,0 +1,12 @@
+Text contrast
+com.enrico.earthquake:id/title
+The item's text contrast ratio is 1.21. This ratio is based on an estimated foreground color of #BF6B50 and an estimated background color of #FE5621. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.enrico.earthquake:id/hint
+The item's text contrast ratio is 1.23. This ratio is based on an estimated foreground color of #B76D55 and an estimated background color of #FE5621. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[189,101][484,172]
+The item's text contrast ratio is 4.01. This ratio is based on an estimated foreground color of #323232 and an estimated background color of #FE5621. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

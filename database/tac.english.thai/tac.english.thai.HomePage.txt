@@ -1,0 +1,12 @@
+Text contrast
+android:id/action_bar_title
+The item's text contrast ratio is 2.71. This ratio is based on an estimated foreground color of #F3F3F3 and an estimated background color of #459DCF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+tac.english.thai:id/lan2
+The item's text contrast ratio is 2.45. This ratio is based on an estimated foreground color of #DFEDCC and an estimated background color of #459DCF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+tac.english.thai:id/inputEditText
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #808080 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

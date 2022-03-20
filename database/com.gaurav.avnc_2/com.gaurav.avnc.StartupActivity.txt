@@ -1,0 +1,12 @@
+Image contrast
+com.gaurav.avnc:id/navigation_btn
+The image's contrast ratio is 1.23. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #E8E8E8. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+[907,1621][1054,1768]
+The image's contrast ratio is 1.77. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #03DAC6. Consider increasing this ratio to 3.00 or greater.
+
+Text contrast
+[152,157][928,200]
+The item's text contrast ratio is 4.41. This ratio is based on an estimated foreground color of #6A6A6A and an estimated background color of #E8E8E8. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

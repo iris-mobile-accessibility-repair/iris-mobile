@@ -1,0 +1,28 @@
+Text contrast
+com.book.bible.tpt:id/txt_section_header
+The item's text contrast ratio is 3.53. This ratio is based on an estimated foreground color of #E26118 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.book.bible.tpt:id/verse_number2
+The item's text contrast ratio is 4.00. This ratio is based on an estimated foreground color of #FF0000 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.book.bible.tpt:id/verse_number2
+The item's text contrast ratio is 4.00. This ratio is based on an estimated foreground color of #FF0000 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.book.bible.tpt:id/verse_number2
+The item's text contrast ratio is 4.00. This ratio is based on an estimated foreground color of #FF0000 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.book.bible.tpt:id/verse_number2
+The item's text contrast ratio is 4.00. This ratio is based on an estimated foreground color of #FF0000 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.book.bible.tpt:id/verse_number2
+The item's text contrast ratio is 4.00. This ratio is based on an estimated foreground color of #FF0000 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.book.bible.tpt:id/verse_number2
+The item's text contrast ratio is 4.00. This ratio is based on an estimated foreground color of #FF0000 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

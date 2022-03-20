@@ -1,0 +1,20 @@
+Text contrast
+[321,408][759,514]
+The item's text contrast ratio is 2.31. This ratio is based on an estimated foreground color of #ACA39A and an estimated background color of #FFFF00. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app2go.sudokufree:id/helpButton
+The item's text contrast ratio is 1.09. This ratio is based on an estimated foreground color of #2B95FE and an estimated background color of #258EF6. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app2go.sudokufree:id/aboutButton
+The item's text contrast ratio is 1.09. This ratio is based on an estimated foreground color of #258EF6 and an estimated background color of #2B95FE. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app2go.sudokufree:id/selectNewGameButton
+The item's text contrast ratio is 3.34. This ratio is based on an estimated foreground color of #258EF6 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.app2go.sudokufree:id/settingsButton
+The item's text contrast ratio is 3.34. This ratio is based on an estimated foreground color of #258EF6 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

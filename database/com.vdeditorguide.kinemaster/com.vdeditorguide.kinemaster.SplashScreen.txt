@@ -1,0 +1,24 @@
+Text contrast
+com.vdeditorguide.kinemaster:id/notice1
+The item's text contrast ratio is 4.00. This ratio is based on an estimated foreground color of #FF0000 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.vdeditorguide.kinemaster:id/notice2
+The item's text contrast ratio is 4.00. This ratio is based on an estimated foreground color of #FF0000 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.vdeditorguide.kinemaster:id/notice3
+The item's text contrast ratio is 4.00. This ratio is based on an estimated foreground color of #FF0000 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.vdeditorguide.kinemaster:id/notice4
+The item's text contrast ratio is 4.00. This ratio is based on an estimated foreground color of #FF0000 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.vdeditorguide.kinemaster:id/notice5
+The item's text contrast ratio is 4.00. This ratio is based on an estimated foreground color of #FF0000 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.vdeditorguide.kinemaster:id/notice6
+The item's text contrast ratio is 4.00. This ratio is based on an estimated foreground color of #FF0000 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

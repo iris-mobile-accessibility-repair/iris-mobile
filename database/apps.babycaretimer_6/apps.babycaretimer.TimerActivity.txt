@@ -1,0 +1,20 @@
+Text contrast
+android:id/title
+The item's text contrast ratio is 1.35. This ratio is based on an estimated foreground color of #999998 and an estimated background color of #828282. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+apps.babycaretimer:id/diaper_button
+The image's contrast ratio is 2.32. This ratio is based on an estimated foreground color of #5C6D76 and an estimated background color of #6DB3D6. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+apps.babycaretimer:id/bottle_button
+The image's contrast ratio is 1.58. This ratio is based on an estimated foreground color of #688B9C and an estimated background color of #6EB3D7. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+apps.babycaretimer:id/sleep_button
+The image's contrast ratio is 2.27. This ratio is based on an estimated foreground color of #616F77 and an estimated background color of #6FB4D7. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+apps.babycaretimer:id/custom_button
+The image's contrast ratio is 2.23. This ratio is based on an estimated foreground color of #647178 and an estimated background color of #71B5D8. Consider increasing this ratio to 3.00 or greater.
+

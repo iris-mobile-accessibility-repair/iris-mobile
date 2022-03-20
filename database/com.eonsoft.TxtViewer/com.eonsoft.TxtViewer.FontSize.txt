@@ -1,0 +1,8 @@
+Image contrast
+com.eonsoft.TxtViewer:id/ImageButtonCancel
+The image's contrast ratio is 2.68. This ratio is based on an estimated foreground color of #898989 and an estimated background color of #E1E1E1. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.eonsoft.TxtViewer:id/ImageButtonSave
+The image's contrast ratio is 2.54. This ratio is based on an estimated foreground color of #8D8D8D and an estimated background color of #E1E1E1. Consider increasing this ratio to 3.00 or greater.
+

@@ -1,0 +1,4 @@
+Image contrast
+com.enclase.formulacionquimcalite:id/imageButton2
+The image's contrast ratio is 2.21. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #2CBDE2. Consider increasing this ratio to 3.00 or greater.
+

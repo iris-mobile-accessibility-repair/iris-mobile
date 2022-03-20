@@ -1,0 +1,16 @@
+Text contrast
+[42,101][364,172]
+The item's text contrast ratio is 2.16. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #FF9800. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+[975,73][1080,199]
+The image's contrast ratio is 2.16. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #FF9800. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+ac.robinson.mediaphone:id/frame_item_image
+The image's contrast ratio is 2.24. This ratio is based on an estimated foreground color of #E38734 and an estimated background color of #EAEAEA. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+ac.robinson.mediaphone:id/add_narrative_button
+The image's contrast ratio is 2.06. This ratio is based on an estimated foreground color of #FAFAFA and an estimated background color of #FF9800. Consider increasing this ratio to 3.00 or greater.
+

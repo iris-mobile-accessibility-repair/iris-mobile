@@ -1,0 +1,12 @@
+Text contrast
+club.guideforfidgetcubetoys:id/my_first_title
+The item's text contrast ratio is 2.74. This ratio is based on an estimated foreground color of #FFFFF0 and an estimated background color of #08AEA3. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+club.guideforfidgetcubetoys:id/my_paragraph_second
+The item's text contrast ratio is 2.74. This ratio is based on an estimated foreground color of #FFFFF1 and an estimated background color of #08AEA3. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+club.guideforfidgetcubetoys:id/my_next_button9
+The item's text contrast ratio is 2.74. This ratio is based on an estimated foreground color of #FFFFF1 and an estimated background color of #08AEA3. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

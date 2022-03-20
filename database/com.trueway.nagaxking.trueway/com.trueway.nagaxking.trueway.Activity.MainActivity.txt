@@ -1,0 +1,52 @@
+Text contrast
+com.trueway.nagaxking.trueway:id/edit_mobile_number
+The item's text contrast ratio is 2.68. This ratio is based on an estimated foreground color of #9E9E9E and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.trueway.nagaxking.trueway:id/edit_amount
+The item's text contrast ratio is 2.68. This ratio is based on an estimated foreground color of #9E9E9E and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+com.trueway.nagaxking.trueway:id/image_pick_contact
+The image's contrast ratio is 1.11. This ratio is based on an estimated foreground color of #CCCCCC and an estimated background color of #D6D7D7. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.trueway.nagaxking.trueway:id/image_wallet
+The image's contrast ratio is 1.54. This ratio is based on an estimated foreground color of #FAFAFA and an estimated background color of #CCCCCC. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.trueway.nagaxking.trueway:id/image_account
+The image's contrast ratio is 1.54. This ratio is based on an estimated foreground color of #CCCCCC and an estimated background color of #FAFAFA. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.trueway.nagaxking.trueway:id/image_contact
+The image's contrast ratio is 1.54. This ratio is based on an estimated foreground color of #CCCCCC and an estimated background color of #FAFAFA. Consider increasing this ratio to 3.00 or greater.
+
+Text contrast
+com.trueway.nagaxking.trueway:id/toolbar_title
+The item's text contrast ratio is 3.63. This ratio is based on an estimated foreground color of #428BCA and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+[0,211][245,337]
+The item's text contrast ratio is 3.63. This ratio is based on an estimated foreground color of #428BCA and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+[245,211][549,337]
+The item's text contrast ratio is 3.63. This ratio is based on an estimated foreground color of #428BCA and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+[549,211][848,337]
+The item's text contrast ratio is 3.63. This ratio is based on an estimated foreground color of #428BCA and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+[848,211][1080,337]
+The item's text contrast ratio is 3.63. This ratio is based on an estimated foreground color of #428BCA and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.trueway.nagaxking.trueway:id/text_browse_plan
+The item's text contrast ratio is 3.63. This ratio is based on an estimated foreground color of #428BCA and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.trueway.nagaxking.trueway:id/button_proceed_recharge
+The item's text contrast ratio is 3.63. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #428BCA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

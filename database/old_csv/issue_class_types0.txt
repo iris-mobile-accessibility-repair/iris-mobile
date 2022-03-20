@@ -1,0 +1,5 @@
+android.widget.Button
+android.widget.TextView
+android.widget.ImageView
+android.widget.ImageButton
+android.widget.EditText

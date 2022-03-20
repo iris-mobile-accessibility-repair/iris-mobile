@@ -1,0 +1,28 @@
+Text contrast
+com.fasting.rapid.quick.fast.battery.charging.advance:id/BatteryFullReminderToggle
+The item's text contrast ratio is 1.44. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #D6D7D7. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.fasting.rapid.quick.fast.battery.charging.advance:id/ShowChargingToastToggle
+The item's text contrast ratio is 1.44. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #D6D7D7. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.fasting.rapid.quick.fast.battery.charging.advance:id/batteryFullToggle
+The item's text contrast ratio is 1.44. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #D6D7D7. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.fasting.rapid.quick.fast.battery.charging.advance:id/chargeConnectToggle
+The item's text contrast ratio is 1.44. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #D6D7D7. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.fasting.rapid.quick.fast.battery.charging.advance:id/chargingnotifyToggle
+The item's text contrast ratio is 1.44. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #D6D7D7. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.fasting.rapid.quick.fast.battery.charging.advance:id/openappchargeConnectToogle
+The item's text contrast ratio is 1.44. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #D6D7D7. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.fasting.rapid.quick.fast.battery.charging.advance:id/killTaskLockOpenToogle
+The item's text contrast ratio is 1.44. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #D6D7D7. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

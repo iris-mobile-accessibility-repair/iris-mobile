@@ -1,0 +1,12 @@
+Text contrast
+com.fallguys.fall.guys:id/button1
+The item's text contrast ratio is 2.97. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #FF3BEB. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.fallguys.fall.guys:id/botton3
+The item's text contrast ratio is 2.97. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #FF3BEB. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.fallguys.fall.guys:id/button2
+The item's text contrast ratio is 2.97. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #FF3BEB. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

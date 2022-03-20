@@ -1,0 +1,8 @@
+Text contrast
+com.edvard.gringosho:id/label
+The item's text contrast ratio is 1.00. This ratio is based on an estimated foreground color of #FAF9FD and an estimated background color of #FAF9FD. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+com.edvard.gringosho:id/share
+The image's contrast ratio is 1.62. This ratio is based on an estimated foreground color of #2026CB and an estimated background color of #066A9D. Consider increasing this ratio to 3.00 or greater.
+

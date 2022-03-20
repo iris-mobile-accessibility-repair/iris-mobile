@@ -1,0 +1,8 @@
+Text contrast
+com.launcher.theme.t211826000:id/e1
+The item's text contrast ratio is 1.01. This ratio is based on an estimated foreground color of #9CA9BD and an estimated background color of #9DAABE. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.launcher.theme.t211826000:id/db
+The item's text contrast ratio is 2.35. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #9DAABE. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

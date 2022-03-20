@@ -1,0 +1,12 @@
+Text contrast
+com.guidoo.lulo.booxx:id/buttonmen
+The item's text contrast ratio is 3.98. This ratio is based on an estimated foreground color of #1C030C and an estimated background color of #D81B60. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.guidoo.lulo.booxx:id/button
+The item's text contrast ratio is 3.98. This ratio is based on an estimated foreground color of #1C030C and an estimated background color of #D81B60. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+[21,1403][1059,1593]
+The item's text contrast ratio is 4.10. This ratio is based on an estimated foreground color of #0C6C37 and an estimated background color of #1AEB78. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

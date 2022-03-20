@@ -1,0 +1,15 @@
+success:
+ImageButton: 2
+EditText: 30
+Button: 11
+ImageView: 9
+total: 284
+TextView: 232
+
+fail:
+ImageButton: 12
+EditText: 24
+Button: 33
+ImageView: 20
+total: 179
+TextView: 90

@@ -1,0 +1,12 @@
+Text contrast
+android:id/title
+The item's text contrast ratio is 2.78. This ratio is based on an estimated foreground color of #D81B60 and an estimated background color of #2D2D2D. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+android:id/title
+The item's text contrast ratio is 2.78. This ratio is based on an estimated foreground color of #D81B60 and an estimated background color of #2D2D2D. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+android.jonas.fakestandby:id/fab
+The image's contrast ratio is 2.40. This ratio is based on an estimated foreground color of #26C6DA and an estimated background color of #D81B60. Consider increasing this ratio to 3.00 or greater.
+

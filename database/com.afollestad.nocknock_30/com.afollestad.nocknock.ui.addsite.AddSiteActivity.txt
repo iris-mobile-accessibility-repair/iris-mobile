@@ -1,0 +1,20 @@
+Text contrast
+com.afollestad.nocknock:id/inputName
+The item's text contrast ratio is 2.78. This ratio is based on an estimated foreground color of #FF6E40 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.afollestad.nocknock:id/label
+The item's text contrast ratio is 2.78. This ratio is based on an estimated foreground color of #FF6E40 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[42,852][512,895]
+The item's text contrast ratio is 2.78. This ratio is based on an estimated foreground color of #FF6E40 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.afollestad.nocknock:id/responseValidationLabel
+The item's text contrast ratio is 2.78. This ratio is based on an estimated foreground color of #FF6E40 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.afollestad.nocknock:id/doneBtn
+The item's text contrast ratio is 2.78. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #FF6E40. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

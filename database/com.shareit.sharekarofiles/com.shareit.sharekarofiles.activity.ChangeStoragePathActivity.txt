@@ -1,0 +1,64 @@
+Text contrast
+[189,144][450,200]
+The item's text contrast ratio is 2.37. This ratio is based on an estimated foreground color of #1C286A and an estimated background color of #3D57E6. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.shareit.sharekarofiles:id/text
+The item's text contrast ratio is 1.98. This ratio is based on an estimated foreground color of #AAB5F4 and an estimated background color of #6277EB. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.shareit.sharekarofiles:id/list_pathresolver_text
+The item's text contrast ratio is 2.05. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #F9A14A. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+com.shareit.sharekarofiles:id/thumbnail
+The image's contrast ratio is 2.05. This ratio is based on an estimated foreground color of #F9A14A and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.shareit.sharekarofiles:id/image
+The image's contrast ratio is 2.05. This ratio is based on an estimated foreground color of #F9A14A and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.shareit.sharekarofiles:id/thumbnail
+The image's contrast ratio is 2.05. This ratio is based on an estimated foreground color of #F9A14A and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.shareit.sharekarofiles:id/image
+The image's contrast ratio is 2.05. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #F9A14A. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.shareit.sharekarofiles:id/image
+The image's contrast ratio is 2.05. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #F9A14A. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.shareit.sharekarofiles:id/thumbnail
+The image's contrast ratio is 2.05. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #F9A14A. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.shareit.sharekarofiles:id/thumbnail
+The image's contrast ratio is 2.05. This ratio is based on an estimated foreground color of #F9A14A and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.shareit.sharekarofiles:id/image
+The image's contrast ratio is 2.05. This ratio is based on an estimated foreground color of #F9A14A and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.shareit.sharekarofiles:id/thumbnail
+The image's contrast ratio is 2.05. This ratio is based on an estimated foreground color of #F9A14A and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.shareit.sharekarofiles:id/image
+The image's contrast ratio is 2.05. This ratio is based on an estimated foreground color of #F9A14A and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.shareit.sharekarofiles:id/menu
+The image's contrast ratio is 2.05. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #F9A14A. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.shareit.sharekarofiles:id/content_fab
+The image's contrast ratio is 2.05. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #F9A14A. Consider increasing this ratio to 3.00 or greater.
+
+Text contrast
+[189,73][504,144]
+The item's text contrast ratio is 3.44. This ratio is based on an estimated foreground color of #080B1E and an estimated background color of #3D57E6. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

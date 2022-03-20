@@ -1,0 +1,16 @@
+Text contrast
+com.ADLS.steamproperty:id/clearable_edit
+The item's text contrast ratio is 2.94. This ratio is based on an estimated foreground color of #0099CC and an estimated background color of #F3F3F3. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.ADLS.steamproperty:id/calculate
+The item's text contrast ratio is 2.07. This ratio is based on an estimated foreground color of #909090 and an estimated background color of #D0D0D0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[321,1122][386,1212]
+The item's text contrast ratio is 1.01. This ratio is based on an estimated foreground color of #F8F8F8 and an estimated background color of #F7F7F7. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+[932,63][1080,189]
+The image's contrast ratio is 2.10. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #DDDDDD. Consider increasing this ratio to 3.00 or greater.
+

@@ -1,0 +1,8 @@
+Text contrast
+android:id/title
+The item's text contrast ratio is 1.35. This ratio is based on an estimated foreground color of #999998 and an estimated background color of #828282. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+diamond.cards:id/imageButton2
+The image's contrast ratio is 2.20. This ratio is based on an estimated foreground color of #00BDF2 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+

@@ -1,0 +1,4 @@
+Text contrast
+com.appspot.usbhidterminal:id/edtxtHidInput
+The item's text contrast ratio is 2.82. This ratio is based on an estimated foreground color of #0099CC and an estimated background color of #EEEEEE. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

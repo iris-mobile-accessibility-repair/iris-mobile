@@ -1,0 +1,4 @@
+Text contrast
+at.bitfire.davdroid:id/appSettings
+The item's text contrast ratio is 2.50. This ratio is based on an estimated foreground color of #7CB342 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

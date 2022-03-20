@@ -1,0 +1,4 @@
+Text contrast
+com.easwareapps.marbleone_ad_free:id/btkOk
+The item's text contrast ratio is 2.06. This ratio is based on an estimated foreground color of #919191 and an estimated background color of #D1D1D1. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

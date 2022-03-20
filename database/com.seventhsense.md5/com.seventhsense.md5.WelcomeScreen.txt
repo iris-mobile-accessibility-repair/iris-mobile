@@ -1,0 +1,36 @@
+Text contrast
+[0,1372][1080,1423]
+The item's text contrast ratio is 2.23. This ratio is based on an estimated foreground color of #AAAAAA and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[722,251][898,294]
+The item's text contrast ratio is 4.29. This ratio is based on an estimated foreground color of #C6CBE9 and an estimated background color of #3F51B5. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+[52,388][303,439]
+The item's text contrast ratio is 4.47. This ratio is based on an estimated foreground color of #777777 and an estimated background color of #FEFFFE. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.seventhsense.md5:id/btn_generate
+The item's text contrast ratio is 4.34. This ratio is based on an estimated foreground color of #FEFFFE and an estimated background color of #E91E63. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.seventhsense.md5:id/btn_paste
+The item's text contrast ratio is 4.34. This ratio is based on an estimated foreground color of #FEFFFE and an estimated background color of #E91E63. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.seventhsense.md5:id/btn_erase
+The item's text contrast ratio is 4.34. This ratio is based on an estimated foreground color of #FEFFFE and an estimated background color of #E91E63. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+[52,1037][245,1088]
+The item's text contrast ratio is 4.47. This ratio is based on an estimated foreground color of #777777 and an estimated background color of #FEFFFE. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.seventhsense.md5:id/btn_copy
+The item's text contrast ratio is 4.34. This ratio is based on an estimated foreground color of #FEFFFE and an estimated background color of #E91E63. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.seventhsense.md5:id/btn_erase_result
+The item's text contrast ratio is 4.34. This ratio is based on an estimated foreground color of #FEFFFE and an estimated background color of #E91E63. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

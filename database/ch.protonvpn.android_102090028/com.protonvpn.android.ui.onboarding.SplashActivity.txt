@@ -1,0 +1,4 @@
+Text contrast
+ch.protonvpn.android:id/protonLogo
+The item's text contrast ratio is 4.22. This ratio is based on an estimated foreground color of #59B268 and an estimated background color of #343E3A. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

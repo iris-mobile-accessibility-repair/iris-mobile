@@ -1,0 +1,8 @@
+Image contrast
+com.arosbilataman.arabicriiwayat:id/imgSearchNav
+The image's contrast ratio is 1.00. This ratio is based on an estimated foreground color of #101010 and an estimated background color of #101010. Consider increasing this ratio to 3.00 or greater.
+
+Text contrast
+com.arosbilataman.arabicriiwayat:id/txtTitleApp
+The item's text contrast ratio is 3.72. This ratio is based on an estimated foreground color of #595CC0 and an estimated background color of #000000. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

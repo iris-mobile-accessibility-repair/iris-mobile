@@ -1,0 +1,12 @@
+Text contrast
+com.incdev02.normebiologique:id/title
+The item's text contrast ratio is 3.06. This ratio is based on an estimated foreground color of #6E2625 and an estimated background color of #EF5350. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+[0,341][574,434]
+The item's text contrast ratio is 3.85. This ratio is based on an estimated foreground color of #575757 and an estimated background color of #BDBDBD. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+[574,341][1079,434]
+The item's text contrast ratio is 3.85. This ratio is based on an estimated foreground color of #575757 and an estimated background color of #BDBDBD. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

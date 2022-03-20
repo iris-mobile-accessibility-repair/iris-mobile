@@ -1,0 +1,60 @@
+Text contrast
+com.boardgamegeek:id/year
+The item's text contrast ratio is 2.85. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.boardgamegeek:id/year
+The item's text contrast ratio is 2.85. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.boardgamegeek:id/year
+The item's text contrast ratio is 2.85. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.boardgamegeek:id/year
+The item's text contrast ratio is 2.85. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.boardgamegeek:id/year
+The item's text contrast ratio is 2.85. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.boardgamegeek:id/year
+The item's text contrast ratio is 2.85. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.boardgamegeek:id/year
+The item's text contrast ratio is 2.85. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.boardgamegeek:id/year
+The item's text contrast ratio is 2.85. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.boardgamegeek:id/year
+The item's text contrast ratio is 2.85. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+[932,63][1080,189]
+The image's contrast ratio is 2.10. This ratio is based on an estimated foreground color of #9999A2 and an estimated background color of #DDDDEC. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.boardgamegeek:id/thumbnail
+The image's contrast ratio is 2.14. This ratio is based on an estimated foreground color of #6FAB00 and an estimated background color of #B7EBE9. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.boardgamegeek:id/thumbnail
+The image's contrast ratio is 2.23. This ratio is based on an estimated foreground color of #5599C6 and an estimated background color of #DBDBD1. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.boardgamegeek:id/thumbnail
+The image's contrast ratio is 1.14. This ratio is based on an estimated foreground color of #CA774B and an estimated background color of #D58256. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.boardgamegeek:id/thumbnail
+The image's contrast ratio is 1.08. This ratio is based on an estimated foreground color of #397EBF and an estimated background color of #4084C3. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.boardgamegeek:id/thumbnail
+The image's contrast ratio is 2.13. This ratio is based on an estimated foreground color of #537094 and an estimated background color of #00B4EF. Consider increasing this ratio to 3.00 or greater.
+

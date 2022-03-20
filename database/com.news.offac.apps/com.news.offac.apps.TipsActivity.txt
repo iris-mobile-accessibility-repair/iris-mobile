@@ -1,0 +1,12 @@
+Text contrast
+[42,101][791,172]
+The item's text contrast ratio is 4.29. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #E300B0. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.news.offac.apps:id/abb
+The item's text contrast ratio is 3.43. This ratio is based on an estimated foreground color of #DA6A46 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.news.offac.apps:id/txt
+The item's text contrast ratio is 3.43. This ratio is based on an estimated foreground color of #DA6A46 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

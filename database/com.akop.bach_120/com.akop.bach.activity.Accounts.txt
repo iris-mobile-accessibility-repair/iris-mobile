@@ -1,0 +1,20 @@
+Text contrast
+com.akop.bach:id/title_gamertag
+The item's text contrast ratio is 1.86. This ratio is based on an estimated foreground color of #F7B13B and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.akop.bach:id/ribbon_line_1
+The item's text contrast ratio is 1.74. This ratio is based on an estimated foreground color of #F8B94D and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+com.akop.bach:id/title_icon
+The image's contrast ratio is 1.90. This ratio is based on an estimated foreground color of #EAB250 and an estimated background color of #FEFEFE. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+[932,63][1080,189]
+The image's contrast ratio is 2.08. This ratio is based on an estimated foreground color of #A9803C and an estimated background color of #F9BA4F. Consider increasing this ratio to 3.00 or greater.
+
+Text contrast
+[13,273][302,319]
+The item's text contrast ratio is 3.89. This ratio is based on an estimated foreground color of #7F7F7F and an estimated background color of #FFFCED. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

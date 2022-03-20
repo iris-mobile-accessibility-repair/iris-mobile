@@ -1,0 +1,8 @@
+Text contrast
+[189,101][220,172]
+The item's text contrast ratio is 1.00. This ratio is based on an estimated foreground color of #19A931 and an estimated background color of #19A931. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+at.linuxtage.companion:id/search_src_text
+The item's text contrast ratio is 1.77. This ratio is based on an estimated foreground color of #8CD498 and an estimated background color of #19A931. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

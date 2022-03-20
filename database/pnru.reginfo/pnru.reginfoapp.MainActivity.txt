@@ -1,0 +1,20 @@
+Text contrast
+pnru.reginfoapp:id/textView1
+The item's text contrast ratio is 2.73. This ratio is based on an estimated foreground color of #04B45F and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+pnru.reginfoapp:id/textView5
+The item's text contrast ratio is 2.73. This ratio is based on an estimated foreground color of #04B45F and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+pnru.reginfoapp:id/btnLogin
+The item's text contrast ratio is 2.73. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #04B45F. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+pnru.reginfoapp:id/textView3
+The item's text contrast ratio is 3.09. This ratio is based on an estimated foreground color of #949292 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+pnru.reginfoapp:id/textView4
+The item's text contrast ratio is 3.09. This ratio is based on an estimated foreground color of #949292 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

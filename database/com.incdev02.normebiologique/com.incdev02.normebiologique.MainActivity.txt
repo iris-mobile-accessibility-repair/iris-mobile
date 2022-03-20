@@ -1,0 +1,8 @@
+Text contrast
+com.incdev02.normebiologique:id/txt_HEMATOLOGIE
+The item's text contrast ratio is 3.03. This ratio is based on an estimated foreground color of #FF5722 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.incdev02.normebiologique:id/txt_BIOCHIMIE
+The item's text contrast ratio is 3.03. This ratio is based on an estimated foreground color of #FF5722 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

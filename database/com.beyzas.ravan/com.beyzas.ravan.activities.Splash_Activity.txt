@@ -1,0 +1,16 @@
+Image contrast
+com.beyzas.ravan:id/ads
+The image's contrast ratio is 1.64. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #19E5A6. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.beyzas.ravan:id/getFall
+The image's contrast ratio is 2.26. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #41BEB8. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.beyzas.ravan:id/rate
+The image's contrast ratio is 1.29. This ratio is based on an estimated foreground color of #41BEB8 and an estimated background color of #FBB817. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.beyzas.ravan:id/lock
+The image's contrast ratio is 1.36. This ratio is based on an estimated foreground color of #F1C40F and an estimated background color of #41BEB8. Consider increasing this ratio to 3.00 or greater.
+

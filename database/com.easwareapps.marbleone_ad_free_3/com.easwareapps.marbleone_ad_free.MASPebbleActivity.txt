@@ -1,0 +1,96 @@
+Image contrast
+com.easwareapps.marbleone_ad_free:id/idPebble31
+The image's contrast ratio is 1.54. This ratio is based on an estimated foreground color of #FEC949 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.easwareapps.marbleone_ad_free:id/idPebble41
+The image's contrast ratio is 1.54. This ratio is based on an estimated foreground color of #FEC949 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.easwareapps.marbleone_ad_free:id/idPebble51
+The image's contrast ratio is 1.54. This ratio is based on an estimated foreground color of #FEC949 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.easwareapps.marbleone_ad_free:id/idPebble32
+The image's contrast ratio is 1.54. This ratio is based on an estimated foreground color of #FEC949 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.easwareapps.marbleone_ad_free:id/idPebble52
+The image's contrast ratio is 1.54. This ratio is based on an estimated foreground color of #FEC949 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.easwareapps.marbleone_ad_free:id/idPebble13
+The image's contrast ratio is 1.54. This ratio is based on an estimated foreground color of #FEC949 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.easwareapps.marbleone_ad_free:id/idPebble23
+The image's contrast ratio is 1.54. This ratio is based on an estimated foreground color of #FEC949 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.easwareapps.marbleone_ad_free:id/idPebble33
+The image's contrast ratio is 1.54. This ratio is based on an estimated foreground color of #FEC949 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.easwareapps.marbleone_ad_free:id/idPebble53
+The image's contrast ratio is 1.54. This ratio is based on an estimated foreground color of #FEC949 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.easwareapps.marbleone_ad_free:id/idPebble63
+The image's contrast ratio is 1.54. This ratio is based on an estimated foreground color of #FEC949 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.easwareapps.marbleone_ad_free:id/idPebble73
+The image's contrast ratio is 1.54. This ratio is based on an estimated foreground color of #FEC949 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.easwareapps.marbleone_ad_free:id/idPebble14
+The image's contrast ratio is 1.54. This ratio is based on an estimated foreground color of #FEC949 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.easwareapps.marbleone_ad_free:id/idPebble74
+The image's contrast ratio is 1.54. This ratio is based on an estimated foreground color of #FEC949 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.easwareapps.marbleone_ad_free:id/idPebble15
+The image's contrast ratio is 1.54. This ratio is based on an estimated foreground color of #FEC949 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.easwareapps.marbleone_ad_free:id/idPebble25
+The image's contrast ratio is 1.54. This ratio is based on an estimated foreground color of #FEC949 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.easwareapps.marbleone_ad_free:id/idPebble35
+The image's contrast ratio is 1.54. This ratio is based on an estimated foreground color of #FEC949 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.easwareapps.marbleone_ad_free:id/idPebble55
+The image's contrast ratio is 1.54. This ratio is based on an estimated foreground color of #FEC949 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.easwareapps.marbleone_ad_free:id/idPebble65
+The image's contrast ratio is 1.54. This ratio is based on an estimated foreground color of #FEC949 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.easwareapps.marbleone_ad_free:id/idPebble75
+The image's contrast ratio is 1.54. This ratio is based on an estimated foreground color of #FEC949 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.easwareapps.marbleone_ad_free:id/idPebble36
+The image's contrast ratio is 1.54. This ratio is based on an estimated foreground color of #FEC949 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.easwareapps.marbleone_ad_free:id/idPebble56
+The image's contrast ratio is 1.54. This ratio is based on an estimated foreground color of #FEC949 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.easwareapps.marbleone_ad_free:id/idPebble37
+The image's contrast ratio is 1.54. This ratio is based on an estimated foreground color of #FEC949 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.easwareapps.marbleone_ad_free:id/idPebble47
+The image's contrast ratio is 1.54. This ratio is based on an estimated foreground color of #FEC949 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.easwareapps.marbleone_ad_free:id/idPebble57
+The image's contrast ratio is 1.54. This ratio is based on an estimated foreground color of #FEC949 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+

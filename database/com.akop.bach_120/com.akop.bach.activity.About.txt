@@ -1,0 +1,4 @@
+Text contrast
+com.akop.bach:id/app_website
+The item's text contrast ratio is 1.97. This ratio is based on an estimated foreground color of #33B5E5 and an estimated background color of #EAEAEA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

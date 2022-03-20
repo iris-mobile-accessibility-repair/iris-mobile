@@ -1,0 +1,4 @@
+Text contrast
+com.blogspot.developersu.ns_usbloader:id/nsIpEditText
+The item's text contrast ratio is 4.35. This ratio is based on an estimated foreground color of #008577 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

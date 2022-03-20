@@ -1,0 +1,12 @@
+Text contrast
+com.adguard.android.contentblocker:id/sectionTitle
+The item's text contrast ratio is 2.78. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #4CAF50. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.adguard.android.contentblocker:id/sectionMessage
+The item's text contrast ratio is 2.78. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #4CAF50. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.adguard.android.contentblocker:id/sectionButton
+The item's text contrast ratio is 3.16. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #FF5722. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

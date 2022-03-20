@@ -1,0 +1,4 @@
+Text contrast
+com.book.bible.tpt:id/txtMarcadores
+The item's text contrast ratio is 2.72. This ratio is based on an estimated foreground color of #1A6650 and an estimated background color of #6DA6ED. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

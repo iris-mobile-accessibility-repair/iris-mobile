@@ -1,0 +1,12 @@
+Text contrast
+[42,101][269,172]
+The item's text contrast ratio is 2.17. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #00C893. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.example.spokennumbers:id/high_score_view
+The item's text contrast ratio is 2.39. This ratio is based on an estimated foreground color of #00A89F and an estimated background color of #C6F0E5. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+com.example.spokennumbers:id/start_button
+The image's contrast ratio is 1.95. This ratio is based on an estimated foreground color of #00CF8D and an estimated background color of #FAFAFA. Consider increasing this ratio to 3.00 or greater.
+

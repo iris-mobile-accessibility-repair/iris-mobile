@@ -1,0 +1,8 @@
+Image contrast
+[932,63][1080,189]
+The image's contrast ratio is 2.10. This ratio is based on an estimated foreground color of #9999A2 and an estimated background color of #DDDDEC. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.boardgamegeek:id/image
+The image's contrast ratio is 1.58. This ratio is based on an estimated foreground color of #FDFDFD and an estimated background color of #CCCCCC. Consider increasing this ratio to 3.00 or greater.
+

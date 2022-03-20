@@ -1,0 +1,12 @@
+Text contrast
+[166,273][914,413]
+The item's text contrast ratio is 2.79. This ratio is based on an estimated foreground color of #2196F3 and an estimated background color of #F2F2F2. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.eventyay.organizer:id/email_dropdown
+The item's text contrast ratio is 2.79. This ratio is based on an estimated foreground color of #2196F3 and an estimated background color of #F2F2F2. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.eventyay.organizer:id/btnStart
+The item's text contrast ratio is 2.79. This ratio is based on an estimated foreground color of #F2F2F2 and an estimated background color of #2196F3. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

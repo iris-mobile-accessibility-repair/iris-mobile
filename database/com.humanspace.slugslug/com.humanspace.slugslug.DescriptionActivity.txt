@@ -1,0 +1,8 @@
+Text contrast
+[42,101][669,172]
+The item's text contrast ratio is 3.23. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #E76B00. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.humanspace.slugslug:id/descButton
+The item's text contrast ratio is 3.91. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #CA615A. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

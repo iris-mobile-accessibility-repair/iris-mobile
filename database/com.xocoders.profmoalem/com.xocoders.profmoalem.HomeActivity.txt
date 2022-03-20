@@ -1,0 +1,24 @@
+Image contrast
+com.xocoders.profmoalem:id/fav
+The image's contrast ratio is 2.38. This ratio is based on an estimated foreground color of #ADA894 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.xocoders.profmoalem:id/fav
+The image's contrast ratio is 1.35. This ratio is based on an estimated foreground color of #F0DDA2 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.xocoders.profmoalem:id/fav
+The image's contrast ratio is 1.63. This ratio is based on an estimated foreground color of #CACCC1 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.xocoders.profmoalem:id/fav
+The image's contrast ratio is 1.68. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #A6D1C0. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.xocoders.profmoalem:id/fav
+The image's contrast ratio is 1.12. This ratio is based on an estimated foreground color of #F2F2F2 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Text contrast
+com.xocoders.profmoalem:id/name
+The item's text contrast ratio is 3.92. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #ED366F. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

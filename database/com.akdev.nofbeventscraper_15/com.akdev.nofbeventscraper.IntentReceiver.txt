@@ -1,0 +1,4 @@
+Text contrast
+com.akdev.nofbeventscraper:id/edit_text_uri_input
+The item's text contrast ratio is 3.47. This ratio is based on an estimated foreground color of #297DA6 and an estimated background color of #E0E0E0. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

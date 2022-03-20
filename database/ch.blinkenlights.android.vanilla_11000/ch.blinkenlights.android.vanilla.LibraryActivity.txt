@@ -1,0 +1,4 @@
+Image contrast
+ch.blinkenlights.android.vanilla:id/cover
+The image's contrast ratio is 1.00. This ratio is based on an estimated foreground color of #37474F and an estimated background color of #37474F. Consider increasing this ratio to 3.00 or greater.
+

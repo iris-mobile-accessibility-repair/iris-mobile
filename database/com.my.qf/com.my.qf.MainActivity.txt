@@ -1,0 +1,32 @@
+Text contrast
+english.dot.russian:id/tooledengsearch
+The item's text contrast ratio is 1.84. This ratio is based on an estimated foreground color of #B5DBD9 and an estimated background color of #38ADA2. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+english.dot.russian:id/toolsearchiv
+The image's contrast ratio is 2.74. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #38ADA2. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+english.dot.russian:id/toolvoicesearch
+The image's contrast ratio is 2.74. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #38ADA2. Consider increasing this ratio to 3.00 or greater.
+
+Text contrast
+english.dot.russian:id/toolheading
+The item's text contrast ratio is 3.67. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #009688. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+english.dot.russian:id/toolradioeng
+The item's text contrast ratio is 3.67. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #009688. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+english.dot.russian:id/toolradiourdu
+The item's text contrast ratio is 3.67. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #009688. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+english.dot.russian:id/wordoftheday
+The item's text contrast ratio is 3.67. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #009688. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+english.dot.russian:id/wordofthedaymeaning
+The item's text contrast ratio is 3.67. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #009688. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

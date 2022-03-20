@@ -1,0 +1,28 @@
+Text contrast
+com.github.axet.darknessimmunity:id/light
+The item's text contrast ratio is 1.10. This ratio is based on an estimated foreground color of #EDEBF0 and an estimated background color of #FFFF00. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.github.axet.darknessimmunity:id/light
+The item's text contrast ratio is 1.06. This ratio is based on an estimated foreground color of #9FEF6A and an estimated background color of #67FF00. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.github.axet.darknessimmunity:id/light
+The item's text contrast ratio is 1.96. This ratio is based on an estimated foreground color of #EDEBF0 and an estimated background color of #00B5FF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.github.axet.darknessimmunity:id/light
+The item's text contrast ratio is 1.25. This ratio is based on an estimated foreground color of #D7D1DE and an estimated background color of #FFAD00. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+com.github.axet.darknessimmunity:id/fab
+The image's contrast ratio is 2.54. This ratio is based on an estimated foreground color of #E3DFE8 and an estimated background color of #FF4081. Consider increasing this ratio to 3.00 or greater.
+
+Text contrast
+com.github.axet.darknessimmunity:id/title
+The item's text contrast ratio is 4.31. This ratio is based on an estimated foreground color of #6B6A6D and an estimated background color of #E8E5EC. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.github.axet.darknessimmunity:id/light
+The item's text contrast ratio is 3.24. This ratio is based on an estimated foreground color of #E9E6ED and an estimated background color of #FF0000. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

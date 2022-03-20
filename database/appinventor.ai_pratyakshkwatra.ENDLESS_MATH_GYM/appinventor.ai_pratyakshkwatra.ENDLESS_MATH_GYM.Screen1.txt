@@ -1,0 +1,12 @@
+Text contrast
+[1,202][539,1097]
+The item's text contrast ratio is 2.30. This ratio is based on an estimated foreground color of #1DBCCF and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[539,1097][1077,1794]
+The item's text contrast ratio is 2.32. This ratio is based on an estimated foreground color of #13C51E and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+android:id/title
+The item's text contrast ratio is 3.84. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #828282. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

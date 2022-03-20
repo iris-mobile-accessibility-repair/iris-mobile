@@ -1,0 +1,24 @@
+Text contrast
+com.easwareapps.g2l:id/btnOptionOne
+The item's text contrast ratio is 1.91. This ratio is based on an estimated foreground color of #069B5A and an estimated background color of #3F51B5. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.easwareapps.g2l:id/btnOptionTwo
+The item's text contrast ratio is 1.91. This ratio is based on an estimated foreground color of #069B5A and an estimated background color of #3F51B5. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.easwareapps.g2l:id/btnOptionThree
+The item's text contrast ratio is 1.91. This ratio is based on an estimated foreground color of #069B5A and an estimated background color of #3F51B5. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.easwareapps.g2l:id/btnOptionFour
+The item's text contrast ratio is 1.91. This ratio is based on an estimated foreground color of #069B5A and an estimated background color of #3F51B5. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+com.easwareapps.g2l:id/imgThankyou
+The image's contrast ratio is 1.00. This ratio is based on an estimated foreground color of #FAFAFA and an estimated background color of #FAFAFA. Consider increasing this ratio to 3.00 or greater.
+
+Text contrast
+[189,101][358,172]
+The item's text contrast ratio is 3.83. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #007FFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

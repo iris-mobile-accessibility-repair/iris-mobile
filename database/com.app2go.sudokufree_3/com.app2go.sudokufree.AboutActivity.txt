@@ -1,0 +1,8 @@
+Text contrast
+[205,221][874,327]
+The item's text contrast ratio is 2.58. This ratio is based on an estimated foreground color of #A39A91 and an estimated background color of #FFFF00. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.app2go.sudokufree:id/backButton
+The item's text contrast ratio is 1.14. This ratio is based on an estimated foreground color of #1D83EA and an estimated background color of #258EF6. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

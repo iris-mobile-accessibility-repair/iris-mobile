@@ -1,0 +1,76 @@
+Image contrast
+com.abhijitvalluri.android.fitnotifications:id/appIconImageView
+The image's contrast ratio is 2.63. This ratio is based on an estimated foreground color of #3BA2F4 and an estimated background color of #FAFAFA. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.abhijitvalluri.android.fitnotifications:id/appSettingsIcon
+The image's contrast ratio is 2.73. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FAFAFA. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.abhijitvalluri.android.fitnotifications:id/appIconImageView
+The image's contrast ratio is 2.84. This ratio is based on an estimated foreground color of #959697 and an estimated background color of #FAFAFA. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.abhijitvalluri.android.fitnotifications:id/appSettingsIcon
+The image's contrast ratio is 2.73. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FAFAFA. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.abhijitvalluri.android.fitnotifications:id/appIconImageView
+The image's contrast ratio is 2.89. This ratio is based on an estimated foreground color of #8298A3 and an estimated background color of #FAFAFA. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.abhijitvalluri.android.fitnotifications:id/appSettingsIcon
+The image's contrast ratio is 2.73. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FAFAFA. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.abhijitvalluri.android.fitnotifications:id/appIconImageView
+The image's contrast ratio is 1.92. This ratio is based on an estimated foreground color of #B7B7B7 and an estimated background color of #FAFAFA. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.abhijitvalluri.android.fitnotifications:id/appSettingsIcon
+The image's contrast ratio is 2.73. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FAFAFA. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.abhijitvalluri.android.fitnotifications:id/appIconImageView
+The image's contrast ratio is 1.77. This ratio is based on an estimated foreground color of #B3C1C7 and an estimated background color of #FAFAFA. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.abhijitvalluri.android.fitnotifications:id/appSettingsIcon
+The image's contrast ratio is 2.73. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FAFAFA. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.abhijitvalluri.android.fitnotifications:id/appIconImageView
+The image's contrast ratio is 2.26. This ratio is based on an estimated foreground color of #92A3FF and an estimated background color of #FAFAFA. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.abhijitvalluri.android.fitnotifications:id/appSettingsIcon
+The image's contrast ratio is 2.73. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FAFAFA. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.abhijitvalluri.android.fitnotifications:id/appIconImageView
+The image's contrast ratio is 2.37. This ratio is based on an estimated foreground color of #16AFF5 and an estimated background color of #FAFAFA. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.abhijitvalluri.android.fitnotifications:id/appSettingsIcon
+The image's contrast ratio is 2.73. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FAFAFA. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.abhijitvalluri.android.fitnotifications:id/appSettingsIcon
+The image's contrast ratio is 2.73. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FAFAFA. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.abhijitvalluri.android.fitnotifications:id/appSettingsIcon
+The image's contrast ratio is 2.73. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FAFAFA. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.abhijitvalluri.android.fitnotifications:id/appSettingsIcon
+The image's contrast ratio is 2.73. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FAFAFA. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.abhijitvalluri.android.fitnotifications:id/appIconImageView
+The image's contrast ratio is 2.35. This ratio is based on an estimated foreground color of #18B0F4 and an estimated background color of #FAFAFA. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.abhijitvalluri.android.fitnotifications:id/appSettingsIcon
+The image's contrast ratio is 2.73. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #FAFAFA. Consider increasing this ratio to 3.00 or greater.
+

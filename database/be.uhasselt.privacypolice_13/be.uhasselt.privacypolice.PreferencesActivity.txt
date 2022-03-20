@@ -1,0 +1,4 @@
+Text contrast
+be.uhasselt.privacypolice:id/location_notice
+The item's text contrast ratio is 4.36. This ratio is based on an estimated foreground color of #656D5C and an estimated background color of #DCEDC8. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

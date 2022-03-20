@@ -1,0 +1,4 @@
+Text contrast
+com.akop.bach:id/accounts_none
+The item's text contrast ratio is 3.33. This ratio is based on an estimated foreground color of #7F7F7F and an estimated background color of #EAEAEA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

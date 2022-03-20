@@ -1,0 +1,8 @@
+Text contrast
+app.fedilab.tubelab:id/no_action_text
+The item's text contrast ratio is 2.96. This ratio is based on an estimated foreground color of #F2690D and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+app.fedilab.tubelab:id/action_button
+The image's contrast ratio is 2.96. This ratio is based on an estimated foreground color of #FAFAFA and an estimated background color of #F2690D. Consider increasing this ratio to 3.00 or greater.
+

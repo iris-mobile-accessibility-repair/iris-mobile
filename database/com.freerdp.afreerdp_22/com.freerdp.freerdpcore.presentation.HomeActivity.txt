@@ -1,0 +1,12 @@
+Text contrast
+com.freerdp.afreerdp:id/superBarEditText
+The item's text contrast ratio is 2.66. This ratio is based on an estimated foreground color of #9B9B9B and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.freerdp.afreerdp:id/bookmark_text2
+The item's text contrast ratio is 1.00. This ratio is based on an estimated foreground color of #FAFAFA and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+com.freerdp.afreerdp:id/bookmark_icon2
+The image's contrast ratio is 1.84. This ratio is based on an estimated foreground color of #BBBBBB and an estimated background color of #FAFAFA. Consider increasing this ratio to 3.00 or greater.
+

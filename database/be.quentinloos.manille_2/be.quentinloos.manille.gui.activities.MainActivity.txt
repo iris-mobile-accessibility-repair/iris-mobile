@@ -1,0 +1,20 @@
+Text contrast
+be.quentinloos.manille:id/title
+The item's text contrast ratio is 3.47. This ratio is based on an estimated foreground color of #ECECEC and an estimated background color of #23910D. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+be.quentinloos.manille:id/points_team1
+The item's text contrast ratio is 3.47. This ratio is based on an estimated foreground color of #ECECEC and an estimated background color of #23910D. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+be.quentinloos.manille:id/team1
+The item's text contrast ratio is 3.47. This ratio is based on an estimated foreground color of #ECECEC and an estimated background color of #23910D. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+be.quentinloos.manille:id/team2
+The item's text contrast ratio is 3.47. This ratio is based on an estimated foreground color of #ECECEC and an estimated background color of #23910D. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+be.quentinloos.manille:id/points_team2
+The item's text contrast ratio is 3.47. This ratio is based on an estimated foreground color of #ECECEC and an estimated background color of #23910D. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

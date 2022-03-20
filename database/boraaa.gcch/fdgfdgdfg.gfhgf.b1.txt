@@ -1,0 +1,8 @@
+Text contrast
+boraaa.gcch:id/button3
+The item's text contrast ratio is 1.57. This ratio is based on an estimated foreground color of #6793BB and an estimated background color of #0B75A7. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+boraaa.gcch:id/button4
+The item's text contrast ratio is 1.57. This ratio is based on an estimated foreground color of #6793BB and an estimated background color of #0B75A7. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

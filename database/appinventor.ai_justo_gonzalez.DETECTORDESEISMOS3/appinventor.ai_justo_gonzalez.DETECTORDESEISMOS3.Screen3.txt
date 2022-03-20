@@ -1,0 +1,32 @@
+Text contrast
+com.milad.adabaziii:id/label
+The item's text contrast ratio is 1.00. This ratio is based on an estimated foreground color of #FAF9FD and an estimated background color of #FAF9FD. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+com.milad.adabaziii:id/menu
+The image's contrast ratio is 1.67. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #62E092. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.milad.adabaziii:id/fave
+The image's contrast ratio is 1.08. This ratio is based on an estimated foreground color of #FDF2B6 and an estimated background color of #FAF9FD. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.milad.adabaziii:id/fave
+The image's contrast ratio is 1.08. This ratio is based on an estimated foreground color of #FDF2B6 and an estimated background color of #FAF9FD. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.milad.adabaziii:id/fave
+The image's contrast ratio is 1.08. This ratio is based on an estimated foreground color of #FDF2B6 and an estimated background color of #FAF9FD. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.milad.adabaziii:id/fave
+The image's contrast ratio is 1.08. This ratio is based on an estimated foreground color of #FDF2B6 and an estimated background color of #FAF9FD. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.milad.adabaziii:id/fave
+The image's contrast ratio is 1.08. This ratio is based on an estimated foreground color of #FDF2B6 and an estimated background color of #FAF9FD. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.milad.adabaziii:id/fave
+The image's contrast ratio is 1.06. This ratio is based on an estimated foreground color of #FEF5B5 and an estimated background color of #FAF9FD. Consider increasing this ratio to 3.00 or greater.
+

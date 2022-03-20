@@ -1,0 +1,8 @@
+Text contrast
+com.biglybt.android.client:id/login_server_subtitle
+The item's text contrast ratio is 3.96. This ratio is based on an estimated foreground color of #D3E1F5 and an estimated background color of #256ACB. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.biglybt.android.client:id/login_remote_subtitle
+The item's text contrast ratio is 3.96. This ratio is based on an estimated foreground color of #D3E1F5 and an estimated background color of #256ACB. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

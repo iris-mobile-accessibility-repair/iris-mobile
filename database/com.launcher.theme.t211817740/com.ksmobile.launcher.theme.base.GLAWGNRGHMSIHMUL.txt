@@ -1,0 +1,4 @@
+Text contrast
+com.launcher.theme.t211817740:id/c3
+The item's text contrast ratio is 3.70. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #4480F7. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

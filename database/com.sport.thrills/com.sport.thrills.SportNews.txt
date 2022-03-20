@@ -1,0 +1,20 @@
+Text contrast
+com.sport.thrills:id/tv_newsHeading
+The item's text contrast ratio is 2.27. This ratio is based on an estimated foreground color of #5D8322 and an estimated background color of #424242. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.sport.thrills:id/tv_newsHeading
+The item's text contrast ratio is 2.18. This ratio is based on an estimated foreground color of #5B8022 and an estimated background color of #424242. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.sport.thrills:id/tv_newsHeading
+The item's text contrast ratio is 2.35. This ratio is based on an estimated foreground color of #5F8622 and an estimated background color of #424242. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.sport.thrills:id/tv_newsHeading
+The item's text contrast ratio is 2.35. This ratio is based on an estimated foreground color of #5F8622 and an estimated background color of #424242. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.sport.thrills:id/tv_newsHeading
+The item's text contrast ratio is 2.24. This ratio is based on an estimated foreground color of #5C8222 and an estimated background color of #424242. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

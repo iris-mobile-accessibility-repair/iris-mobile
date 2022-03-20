@@ -1,0 +1,16 @@
+Text contrast
+com.gitlab.mahc9kez.shadowsocks.foss:id/tx
+The item's text contrast ratio is 2.33. This ratio is based on an estimated foreground color of #D4D4D4 and an estimated background color of #7986CB. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.gitlab.mahc9kez.shadowsocks.foss:id/txRate
+The item's text contrast ratio is 1.99. This ratio is based on an estimated foreground color of #3F51B5 and an estimated background color of #7986CB. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.gitlab.mahc9kez.shadowsocks.foss:id/rx
+The item's text contrast ratio is 3.05. This ratio is based on an estimated foreground color of #383D5D and an estimated background color of #7986CB. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.gitlab.mahc9kez.shadowsocks.foss:id/rxRate
+The item's text contrast ratio is 3.05. This ratio is based on an estimated foreground color of #383D5D and an estimated background color of #7986CB. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

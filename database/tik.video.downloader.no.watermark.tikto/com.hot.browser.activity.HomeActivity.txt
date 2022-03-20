@@ -1,0 +1,4 @@
+Text contrast
+tik.video.downloader.no.watermark.tiktok:id/du
+The item's text contrast ratio is 4.04. This ratio is based on an estimated foreground color of #757575 and an estimated background color of #F0F0F0. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

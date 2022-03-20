@@ -1,0 +1,28 @@
+Text contrast
+com.alexcruz.papuhwalls:id/title
+The item's text contrast ratio is 3.21. This ratio is based on an estimated foreground color of #C03D34 and an estimated background color of #1C1C1C. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+android:id/title
+The item's text contrast ratio is 3.21. This ratio is based on an estimated foreground color of #C03D34 and an estimated background color of #1C1C1C. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.alexcruz.papuhwalls:id/title
+The item's text contrast ratio is 3.21. This ratio is based on an estimated foreground color of #C03D34 and an estimated background color of #1C1C1C. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+android:id/title
+The item's text contrast ratio is 3.21. This ratio is based on an estimated foreground color of #C03D34 and an estimated background color of #1C1C1C. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.alexcruz.papuhwalls:id/title
+The item's text contrast ratio is 3.21. This ratio is based on an estimated foreground color of #C03D34 and an estimated background color of #1C1C1C. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+android:id/title
+The item's text contrast ratio is 3.21. This ratio is based on an estimated foreground color of #C03D34 and an estimated background color of #1C1C1C. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+android:id/title
+The item's text contrast ratio is 3.21. This ratio is based on an estimated foreground color of #C03D34 and an estimated background color of #1C1C1C. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

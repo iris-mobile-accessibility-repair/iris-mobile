@@ -1,0 +1,16 @@
+Text contrast
+app.fedilab.nitterizemelite:id/configure
+The item's text contrast ratio is 2.83. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #1DA1F2. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+app.fedilab.nitterizemelite:id/invidious_settings
+The image's contrast ratio is 2.83. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #1DA1F2. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+app.fedilab.nitterizemelite:id/instances
+The image's contrast ratio is 2.83. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #1DA1F2. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+app.fedilab.nitterizemelite:id/button_expand
+The image's contrast ratio is 2.83. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #1DA1F2. Consider increasing this ratio to 3.00 or greater.
+

@@ -1,0 +1,20 @@
+Text contrast
+com.huawei.hwid:id/login_btn
+The item's text contrast ratio is 2.52. This ratio is based on an estimated foreground color of #37AFDB and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.huawei.hwid:id/text_hint
+The item's text contrast ratio is 2.95. This ratio is based on an estimated foreground color of #0CA1DA and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.huawei.hwid:id/terms
+The item's text contrast ratio is 2.94. This ratio is based on an estimated foreground color of #0A9DCD and an estimated background color of #F8F8F8. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.huawei.hwid:id/policy
+The item's text contrast ratio is 2.94. This ratio is based on an estimated foreground color of #0A9DCD and an estimated background color of #F8F8F8. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+com.huawei.hwid:id/close
+The image's contrast ratio is 2.55. This ratio is based on an estimated foreground color of #9D9D9D and an estimated background color of #F8F8F8. Consider increasing this ratio to 3.00 or greater.
+

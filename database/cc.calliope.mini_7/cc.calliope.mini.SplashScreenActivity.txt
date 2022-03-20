@@ -1,0 +1,16 @@
+Text contrast
+[358,1277][700,1340]
+The item's text contrast ratio is 1.56. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #FDC800. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[402,1467][657,1530]
+The item's text contrast ratio is 2.02. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #00D265. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[405,1657][654,1720]
+The item's text contrast ratio is 2.08. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #00C8C6. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+cc.calliope.mini:id/button_info
+The image's contrast ratio is 2.08. This ratio is based on an estimated foreground color of #00C8C6 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+

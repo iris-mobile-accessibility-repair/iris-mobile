@@ -1,0 +1,32 @@
+Text contrast
+[382,415][445,492]
+The item's text contrast ratio is 2.24. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #25C48F. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+au.com.wallaceit.reddinator:id/subreddit_filter_btn
+The item's text contrast ratio is 2.24. This ratio is based on an estimated foreground color of #25C48F and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+au.com.wallaceit.reddinator:id/sortselect
+The item's text contrast ratio is 3.61. This ratio is based on an estimated foreground color of #E63D00 and an estimated background color of #DFF1FF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+au.com.wallaceit.reddinator:id/refreshloginbutton
+The item's text contrast ratio is 4.26. This ratio is based on an estimated foreground color of #467599 and an estimated background color of #DFF1FF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+au.com.wallaceit.reddinator:id/tab_text
+The item's text contrast ratio is 3.74. This ratio is based on an estimated foreground color of #467599 and an estimated background color of #CEE3F8. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+au.com.wallaceit.reddinator:id/tab_text
+The item's text contrast ratio is 3.74. This ratio is based on an estimated foreground color of #467599 and an estimated background color of #CEE3F8. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+au.com.wallaceit.reddinator:id/subreddit_random_btn
+The item's text contrast ratio is 3.02. This ratio is based on an estimated foreground color of #5F99CF and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+au.com.wallaceit.reddinator:id/subreddit_name
+The item's text contrast ratio is 3.02. This ratio is based on an estimated foreground color of #5F99CF and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

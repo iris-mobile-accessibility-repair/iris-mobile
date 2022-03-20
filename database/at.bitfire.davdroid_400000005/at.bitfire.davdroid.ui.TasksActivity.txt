@@ -1,0 +1,4 @@
+Text contrast
+at.bitfire.davdroid:id/tasksOrgInfo
+The item's text contrast ratio is 2.82. This ratio is based on an estimated foreground color of #FF6D00 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

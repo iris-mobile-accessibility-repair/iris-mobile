@@ -1,0 +1,8 @@
+Text contrast
+[42,101][556,172]
+The item's text contrast ratio is 4.17. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #0076FF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+cloud.valetudo.companion:id/scan_button
+The item's text contrast ratio is 4.17. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #0076FF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

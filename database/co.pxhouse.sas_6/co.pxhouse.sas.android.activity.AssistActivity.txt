@@ -1,0 +1,4 @@
+Text contrast
+co.pxhouse.sas:id/queryView
+The item's text contrast ratio is 2.66. This ratio is based on an estimated foreground color of #9B9B9B and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

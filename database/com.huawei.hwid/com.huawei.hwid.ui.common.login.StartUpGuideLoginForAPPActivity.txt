@@ -1,0 +1,8 @@
+Text contrast
+com.huawei.hwid:id/welcome_textview_1
+The item's text contrast ratio is 2.22. This ratio is based on an estimated foreground color of #23A7D7 and an estimated background color of #E6E6E6. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.huawei.hwid:id/welcome_textview_value
+The item's text contrast ratio is 3.39. This ratio is based on an estimated foreground color of #E6E6E6 and an estimated background color of #7B7B7B. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

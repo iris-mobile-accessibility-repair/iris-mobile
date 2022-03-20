@@ -1,0 +1,8 @@
+Text contrast
+campyre.android:id/username
+The item's text contrast ratio is 2.46. This ratio is based on an estimated foreground color of #808080 and an estimated background color of #2C4854. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+campyre.android:id/password
+The item's text contrast ratio is 2.46. This ratio is based on an estimated foreground color of #808080 and an estimated background color of #2C4854. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

@@ -1,0 +1,28 @@
+Text contrast
+tik.video.downloader.no.watermark.tiktok:id/dr
+The item's text contrast ratio is 1.88. This ratio is based on an estimated foreground color of #BDBDBD and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+tik.video.downloader.no.watermark.tiktok:id/ds
+The item's text contrast ratio is 1.88. This ratio is based on an estimated foreground color of #BDBDBD and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+tik.video.downloader.no.watermark.tiktok:id/fz
+The image's contrast ratio is 2.75. This ratio is based on an estimated foreground color of #9C9C9C and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+tik.video.downloader.no.watermark.tiktok:id/g0
+The image's contrast ratio is 2.75. This ratio is based on an estimated foreground color of #9C9C9C and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+tik.video.downloader.no.watermark.tiktok:id/g1
+The image's contrast ratio is 2.75. This ratio is based on an estimated foreground color of #9C9C9C and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+tik.video.downloader.no.watermark.tiktok:id/g2
+The image's contrast ratio is 2.75. This ratio is based on an estimated foreground color of #9C9C9C and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+tik.video.downloader.no.watermark.tiktok:id/g3
+The image's contrast ratio is 2.75. This ratio is based on an estimated foreground color of #9C9C9C and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+

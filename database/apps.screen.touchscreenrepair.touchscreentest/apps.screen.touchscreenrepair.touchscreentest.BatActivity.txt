@@ -1,0 +1,4 @@
+Text contrast
+apps.screen.touchscreenrepair.touchscreentest:id/textView_bat
+The item's text contrast ratio is 2.33. This ratio is based on an estimated foreground color of #070809 and an estimated background color of #0000FF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

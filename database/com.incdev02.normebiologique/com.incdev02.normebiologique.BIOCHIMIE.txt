@@ -1,0 +1,52 @@
+Text contrast
+com.incdev02.normebiologique:id/title
+The item's text contrast ratio is 1.96. This ratio is based on an estimated foreground color of #616161 and an estimated background color of #FF5722. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.incdev02.normebiologique:id/txt_ionogramSanguin
+The item's text contrast ratio is 3.03. This ratio is based on an estimated foreground color of #FF5722 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.incdev02.normebiologique:id/txt_bilanRenal
+The item's text contrast ratio is 3.03. This ratio is based on an estimated foreground color of #FF5722 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.incdev02.normebiologique:id/txt_bilanHepatiques
+The item's text contrast ratio is 3.03. This ratio is based on an estimated foreground color of #FF5722 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.incdev02.normebiologique:id/txt_bilanGlucidique
+The item's text contrast ratio is 3.03. This ratio is based on an estimated foreground color of #FF5722 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.incdev02.normebiologique:id/txt_bilanLipidique
+The item's text contrast ratio is 3.03. This ratio is based on an estimated foreground color of #FF5722 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.incdev02.normebiologique:id/txt_equi_ibreAcidobasique
+The item's text contrast ratio is 3.03. This ratio is based on an estimated foreground color of #FF5722 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.incdev02.normebiologique:id/txt_proteinesPlasmatiques
+The item's text contrast ratio is 3.03. This ratio is based on an estimated foreground color of #FF5722 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.incdev02.normebiologique:id/txt_bilanHormonal
+The item's text contrast ratio is 3.03. This ratio is based on an estimated foreground color of #FF5722 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.incdev02.normebiologique:id/txt_mentabolismeDuFer
+The item's text contrast ratio is 3.03. This ratio is based on an estimated foreground color of #FF5722 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.incdev02.normebiologique:id/txt_metabolismDuCuivre
+The item's text contrast ratio is 3.03. This ratio is based on an estimated foreground color of #FF5722 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.incdev02.normebiologique:id/txt_catecholamines
+The item's text contrast ratio is 3.03. This ratio is based on an estimated foreground color of #FF5722 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.incdev02.normebiologique:id/txt_liquidesBiologiquesNormax
+The item's text contrast ratio is 3.03. This ratio is based on an estimated foreground color of #FF5722 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

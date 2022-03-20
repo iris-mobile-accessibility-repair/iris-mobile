@@ -1,0 +1,4 @@
+Text contrast
+com.apusapps.theme.i_purple_flower_4e40c727b0:id/apply_theme
+The item's text contrast ratio is 3.59. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #7D7BE6. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

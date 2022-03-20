@@ -1,0 +1,8 @@
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/calory_v0
+The item's text contrast ratio is 3.02. This ratio is based on an estimated foreground color of #8B4513 and an estimated background color of #A9A9A9. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/calory_v1
+The item's text contrast ratio is 3.02. This ratio is based on an estimated foreground color of #8B4513 and an estimated background color of #A9A9A9. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

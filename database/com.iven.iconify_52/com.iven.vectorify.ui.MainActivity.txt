@@ -1,0 +1,16 @@
+Text contrast
+com.iven.iconify:id/accent_vector
+The item's text contrast ratio is 2.58. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #A1A1A1. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.iven.iconify:id/version
+The item's text contrast ratio is 1.84. This ratio is based on an estimated foreground color of #BFBFBF and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.iven.iconify:id/categories_chip
+The item's text contrast ratio is 3.91. This ratio is based on an estimated foreground color of #7D7D7D and an estimated background color of #212121. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.iven.iconify:id/accent_background
+The item's text contrast ratio is 3.91. This ratio is based on an estimated foreground color of #7D7D7D and an estimated background color of #212121. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

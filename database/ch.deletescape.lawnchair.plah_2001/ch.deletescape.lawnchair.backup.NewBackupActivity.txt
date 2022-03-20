@@ -1,0 +1,28 @@
+Text contrast
+ch.deletescape.lawnchair.plah:id/textView3
+The item's text contrast ratio is 2.66. This ratio is based on an estimated foreground color of #9B9B9B and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+ch.deletescape.lawnchair.plah:id/textView7
+The item's text contrast ratio is 2.66. This ratio is based on an estimated foreground color of #9B9B9B and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[189,101][346,172]
+The item's text contrast ratio is 3.23. This ratio is based on an estimated foreground color of #4286F5 and an estimated background color of #F5F5F5. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+ch.deletescape.lawnchair.plah:id/name
+The item's text contrast ratio is 3.38. This ratio is based on an estimated foreground color of #4286F5 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+ch.deletescape.lawnchair.plah:id/content_homescreen
+The item's text contrast ratio is 3.38. This ratio is based on an estimated foreground color of #4286F5 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+ch.deletescape.lawnchair.plah:id/content_settings
+The item's text contrast ratio is 3.38. This ratio is based on an estimated foreground color of #4286F5 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+ch.deletescape.lawnchair.plah:id/content_wallpaper
+The item's text contrast ratio is 3.38. This ratio is based on an estimated foreground color of #4286F5 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

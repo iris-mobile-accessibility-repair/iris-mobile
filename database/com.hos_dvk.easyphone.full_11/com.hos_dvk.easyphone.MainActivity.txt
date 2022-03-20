@@ -1,0 +1,12 @@
+Text contrast
+[281,226][631,477]
+The item's text contrast ratio is 2.26. This ratio is based on an estimated foreground color of #000000 and an estimated background color of #34495E. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[281,803][924,1054]
+The item's text contrast ratio is 2.26. This ratio is based on an estimated foreground color of #000000 and an estimated background color of #34495E. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[281,1380][721,1631]
+The item's text contrast ratio is 2.26. This ratio is based on an estimated foreground color of #000000 and an estimated background color of #34495E. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

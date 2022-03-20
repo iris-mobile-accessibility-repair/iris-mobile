@@ -1,0 +1,4 @@
+Text contrast
+com.abhijitvalluri.android.fitnotifications:id/mi_description
+The item's text contrast ratio is 4.29. This ratio is based on an estimated foreground color of #C6CBE9 and an estimated background color of #3F51B5. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

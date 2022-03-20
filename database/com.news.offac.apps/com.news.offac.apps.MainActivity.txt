@@ -1,0 +1,32 @@
+Text contrast
+com.news.offac.apps:id/text1
+The item's text contrast ratio is 1.31. This ratio is based on an estimated foreground color of #EB4CC8 and an estimated background color of #E300B0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.news.offac.apps:id/text2
+The item's text contrast ratio is 1.31. This ratio is based on an estimated foreground color of #EB4CC8 and an estimated background color of #E300B0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[42,101][791,172]
+The item's text contrast ratio is 4.29. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #E300B0. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+[52,262][1028,350]
+The item's text contrast ratio is 4.29. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #E300B0. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+[52,454][1028,619]
+The item's text contrast ratio is 4.29. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #E300B0. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+[52,723][1028,811]
+The item's text contrast ratio is 4.29. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #E300B0. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+[52,915][1028,1003]
+The item's text contrast ratio is 4.29. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #E300B0. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+[52,1107][1028,1195]
+The item's text contrast ratio is 4.29. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #E300B0. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

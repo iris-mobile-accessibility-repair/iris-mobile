@@ -1,0 +1,20 @@
+Text contrast
+com.my.qf:id/edittext1
+The item's text contrast ratio is 4.37. This ratio is based on an estimated foreground color of #607D8B and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.my.qf:id/textview9
+The item's text contrast ratio is 4.01. This ratio is based on an estimated foreground color of #607D8B and an estimated background color of #F5F5F5. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.my.qf:id/textview8
+The item's text contrast ratio is 4.22. This ratio is based on an estimated foreground color of #1976D2 and an estimated background color of #F5F5F5. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.my.qf:id/textview10
+The item's text contrast ratio is 4.01. This ratio is based on an estimated foreground color of #607D8B and an estimated background color of #F5F5F5. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.my.qf:id/textview11
+The item's text contrast ratio is 4.01. This ratio is based on an estimated foreground color of #607D8B and an estimated background color of #F5F5F5. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

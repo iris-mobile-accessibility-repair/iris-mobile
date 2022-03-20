@@ -1,0 +1,16 @@
+Image contrast
+com.jacwares.stuffer.minitoolkitfree:id/main_icon
+The image's contrast ratio is 2.55. This ratio is based on an estimated foreground color of #707070 and an estimated background color of #A4C739. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.jacwares.stuffer.minitoolkitfree:id/app_icon
+The image's contrast ratio is 2.55. This ratio is based on an estimated foreground color of #707070 and an estimated background color of #A4C739. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.jacwares.stuffer.minitoolkitfree:id/app_kill_button
+The image's contrast ratio is 2.87. This ratio is based on an estimated foreground color of #792C00 and an estimated background color of #8C8C8C. Consider increasing this ratio to 3.00 or greater.
+
+Text contrast
+com.jacwares.stuffer.minitoolkitfree:id/killer_search_text
+The item's text contrast ratio is 3.54. This ratio is based on an estimated foreground color of #888888 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

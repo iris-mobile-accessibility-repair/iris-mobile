@@ -1,0 +1,8 @@
+Text contrast
+ch.jiikuy.velocitycalculator:id/editText3
+The item's text contrast ratio is 2.66. This ratio is based on an estimated foreground color of #9B9B9B and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+ch.jiikuy.velocitycalculator:id/editText2
+The item's text contrast ratio is 3.19. This ratio is based on an estimated foreground color of #FF4081 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

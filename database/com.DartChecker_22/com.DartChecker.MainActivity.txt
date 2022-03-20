@@ -1,0 +1,12 @@
+Image contrast
+com.DartChecker:id/statistikbutton
+The image's contrast ratio is 1.89. This ratio is based on an estimated foreground color of #303030 and an estimated background color of #5A595B. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.DartChecker:id/einstellungsbutton
+The image's contrast ratio is 1.89. This ratio is based on an estimated foreground color of #303030 and an estimated background color of #5A595B. Consider increasing this ratio to 3.00 or greater.
+
+Text contrast
+com.DartChecker:id/titeldartchecker
+The item's text contrast ratio is 3.85. This ratio is based on an estimated foreground color of #669900 and an estimated background color of #303030. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

@@ -1,0 +1,48 @@
+Text contrast
+ch.famoser.mensa:id/title
+The item's text contrast ratio is 1.30. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #DBE2EF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+ch.famoser.mensa:id/meal_time
+The item's text contrast ratio is 1.30. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #DBE2EF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+ch.famoser.mensa:id/title
+The item's text contrast ratio is 1.30. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #DBE2EF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+ch.famoser.mensa:id/meal_time
+The item's text contrast ratio is 1.30. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #DBE2EF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+ch.famoser.mensa:id/title
+The item's text contrast ratio is 1.30. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #DBE2EF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+ch.famoser.mensa:id/meal_time
+The item's text contrast ratio is 1.30. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #DBE2EF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+ch.famoser.mensa:id/title
+The item's text contrast ratio is 1.30. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #DBE2EF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+ch.famoser.mensa:id/meal_time
+The item's text contrast ratio is 1.30. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #DBE2EF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+ch.famoser.mensa:id/title
+The item's text contrast ratio is 1.30. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #DBE2EF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+ch.famoser.mensa:id/meal_time
+The item's text contrast ratio is 1.30. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #DBE2EF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+ch.famoser.mensa:id/title
+The item's text contrast ratio is 1.30. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #DBE2EF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+ch.famoser.mensa:id/meal_time
+The item's text contrast ratio is 1.30. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #DBE2EF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

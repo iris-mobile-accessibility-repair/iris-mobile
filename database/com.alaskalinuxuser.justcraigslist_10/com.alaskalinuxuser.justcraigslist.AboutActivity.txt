@@ -1,0 +1,8 @@
+Image contrast
+com.alaskalinuxuser.justcraigslist:id/fabGithub
+The image's contrast ratio is 2.44. This ratio is based on an estimated foreground color of #000000 and an estimated background color of #0000FF. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.alaskalinuxuser.justcraigslist:id/fabReturn
+The image's contrast ratio is 1.61. This ratio is based on an estimated foreground color of #2B2D2F and an estimated background color of #0000FF. Consider increasing this ratio to 3.00 or greater.
+

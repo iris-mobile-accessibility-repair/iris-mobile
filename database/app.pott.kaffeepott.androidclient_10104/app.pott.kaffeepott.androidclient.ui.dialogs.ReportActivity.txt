@@ -1,0 +1,4 @@
+Text contrast
+app.pott.kaffeepott.androidclient:id/delete_cafe
+The item's text contrast ratio is 3.50. This ratio is based on an estimated foreground color of #AD6F52 and an estimated background color of #EEEEEE. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

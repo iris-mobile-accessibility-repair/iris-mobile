@@ -1,0 +1,364 @@
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/Sunday
+The item's text contrast ratio is 2.37. This ratio is based on an estimated foreground color of #FF1493 and an estimated background color of #FFC0CB. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 1.65. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #FFB6C1. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 1.74. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #87CEEB. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 1.65. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #FFB6C1. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 1.74. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #87CEEB. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 1.65. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #FFB6C1. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 1.74. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #87CEEB. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 1.65. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #FFB6C1. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 1.74. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #87CEEB. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 1.65. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #FFB6C1. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 1.74. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #87CEEB. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 1.65. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #FFB6C1. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 1.74. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #87CEEB. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/schedule
+The item's text contrast ratio is 1.79. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #FFFAF0. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/yearMonth
+The item's text contrast ratio is 3.01. This ratio is based on an estimated foreground color of #808080 and an estimated background color of #F5DEB3. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/Monday
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/Tuesday
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/Wednesday
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/Thursday
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/Friday
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+jp.co.hateblo.bomberhead_lab.e_alcohol_calendar2:id/dayOfMonth
+The item's text contrast ratio is 3.95. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #808080. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

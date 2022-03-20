@@ -1,0 +1,4 @@
+Text contrast
+com.nightmodezoomphoto.videocameralowlight:id/txtTitle
+The item's text contrast ratio is 4.41. This ratio is based on an estimated foreground color of #757575 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

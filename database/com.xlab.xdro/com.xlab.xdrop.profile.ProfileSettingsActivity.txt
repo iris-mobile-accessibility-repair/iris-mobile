@@ -1,0 +1,28 @@
+Image contrast
+[366,820][524,978]
+The image's contrast ratio is 1.84. This ratio is based on an estimated foreground color of #D7864F and an estimated background color of #F9C792. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+[556,820][714,978]
+The image's contrast ratio is 2.16. This ratio is based on an estimated foreground color of #FF784E and an estimated background color of #FEEB80. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+[176,1031][334,1189]
+The image's contrast ratio is 1.77. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #99D365. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+[556,1031][714,1189]
+The image's contrast ratio is 2.18. This ratio is based on an estimated foreground color of #C98F6A and an estimated background color of #FFE0BD. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+[746,1031][904,1189]
+The image's contrast ratio is 1.61. This ratio is based on an estimated foreground color of #F8BCC8 and an estimated background color of #FFFFFF. Consider increasing this ratio to 3.00 or greater.
+
+Text contrast
+com.xlab.xdrop:id/c3
+The item's text contrast ratio is 4.18. This ratio is based on an estimated foreground color of #2877F3 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.xlab.xdrop:id/f2
+The item's text contrast ratio is 4.18. This ratio is based on an estimated foreground color of #2877F3 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

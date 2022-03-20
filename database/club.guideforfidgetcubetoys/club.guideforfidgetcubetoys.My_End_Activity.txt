@@ -1,0 +1,4 @@
+Text contrast
+club.guideforfidgetcubetoys:id/my_btn_pr_rate
+The item's text contrast ratio is 4.16. This ratio is based on an estimated foreground color of #FFFFF1 and an estimated background color of #E83631. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

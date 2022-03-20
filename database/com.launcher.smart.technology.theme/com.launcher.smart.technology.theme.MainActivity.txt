@@ -1,0 +1,8 @@
+Image contrast
+com.launcher.smart.technology.theme:id/btn_info
+The image's contrast ratio is 2.87. This ratio is based on an estimated foreground color of #8E8E8E and an estimated background color of #F0F0F0. Consider increasing this ratio to 3.00 or greater.
+
+Text contrast
+com.launcher.smart.technology.theme:id/item_btn
+The item's text contrast ratio is 3.17. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #009BD3. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

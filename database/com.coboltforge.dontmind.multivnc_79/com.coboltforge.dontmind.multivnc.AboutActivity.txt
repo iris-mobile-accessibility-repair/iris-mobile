@@ -1,0 +1,8 @@
+Text contrast
+[26,407][1054,940]
+The item's text contrast ratio is 3.53. This ratio is based on an estimated foreground color of #4E9A06 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.coboltforge.dontmind.multivnc:id/love_button
+The item's text contrast ratio is 3.86. This ratio is based on an estimated foreground color of #FF1C1C and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

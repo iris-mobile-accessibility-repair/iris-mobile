@@ -1,0 +1,24 @@
+Text contrast
+ch.hgdev.toposuite:id/b
+The item's text contrast ratio is 2.66. This ratio is based on an estimated foreground color of #9B9B9B and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+ch.hgdev.toposuite:id/c
+The item's text contrast ratio is 2.66. This ratio is based on an estimated foreground color of #9B9B9B and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+ch.hgdev.toposuite:id/alpha
+The item's text contrast ratio is 2.66. This ratio is based on an estimated foreground color of #9B9B9B and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+ch.hgdev.toposuite:id/beta
+The item's text contrast ratio is 2.66. This ratio is based on an estimated foreground color of #9B9B9B and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+ch.hgdev.toposuite:id/gamma
+The item's text contrast ratio is 2.66. This ratio is based on an estimated foreground color of #9B9B9B and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+ch.hgdev.toposuite:id/a
+The item's text contrast ratio is 4.10. This ratio is based on an estimated foreground color of #F5040F and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

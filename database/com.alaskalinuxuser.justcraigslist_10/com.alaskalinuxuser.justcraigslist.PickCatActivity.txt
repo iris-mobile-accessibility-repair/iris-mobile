@@ -1,0 +1,16 @@
+Text contrast
+android:id/text1
+The item's text contrast ratio is 1.71. This ratio is based on an estimated foreground color of #0000FF and an estimated background color of #282829. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+android:id/text1
+The item's text contrast ratio is 1.71. This ratio is based on an estimated foreground color of #282829 and an estimated background color of #0000FF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+android:id/text1
+The item's text contrast ratio is 1.69. This ratio is based on an estimated foreground color of #484B52 and an estimated background color of #282829. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+com.alaskalinuxuser.justcraigslist:id/fab
+The image's contrast ratio is 1.70. This ratio is based on an estimated foreground color of #28292A and an estimated background color of #0000FF. Consider increasing this ratio to 3.00 or greater.
+

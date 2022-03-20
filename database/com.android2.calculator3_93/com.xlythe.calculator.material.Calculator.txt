@@ -1,0 +1,16 @@
+Text contrast
+com.android2.calculator3:id/fun_sin
+The item's text contrast ratio is 1.00. This ratio is based on an estimated foreground color of #1DE9B6 and an estimated background color of #1DE9B6. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.android2.calculator3:id/fun_log
+The item's text contrast ratio is 1.00. This ratio is based on an estimated foreground color of #1DE9B6 and an estimated background color of #1DE9B6. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.android2.calculator3:id/op_pow
+The item's text contrast ratio is 1.00. This ratio is based on an estimated foreground color of #1DE9B6 and an estimated background color of #1DE9B6. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[1048,1537][1080,1763]
+The item's text contrast ratio is 1.00. This ratio is based on an estimated foreground color of #1DE9B6 and an estimated background color of #1DE9B6. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

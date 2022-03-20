@@ -1,0 +1,12 @@
+Text contrast
+[42,101][929,172]
+The item's text contrast ratio is 2.52. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #D5973D. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.helloscarycoach.scaryteachertips:id/abb
+The item's text contrast ratio is 3.43. This ratio is based on an estimated foreground color of #DA6A46 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.helloscarycoach.scaryteachertips:id/txt
+The item's text contrast ratio is 3.43. This ratio is based on an estimated foreground color of #DA6A46 and an estimated background color of #FFFFFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

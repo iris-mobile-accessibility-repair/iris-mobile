@@ -1,0 +1,4 @@
+Text contrast
+com.diary.superdiary:id/note
+The item's text contrast ratio is 3.01. This ratio is based on an estimated foreground color of #808080 and an estimated background color of #373737. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

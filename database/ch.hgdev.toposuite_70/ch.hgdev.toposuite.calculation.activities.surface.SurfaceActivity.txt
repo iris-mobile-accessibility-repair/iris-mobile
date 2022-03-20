@@ -1,0 +1,4 @@
+Text contrast
+ch.hgdev.toposuite:id/name
+The item's text contrast ratio is 4.10. This ratio is based on an estimated foreground color of #F5040F and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

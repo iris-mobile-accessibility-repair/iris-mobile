@@ -1,0 +1,8 @@
+Text contrast
+com.huawei.hwid:id/quick_login_textview_1
+The item's text contrast ratio is 2.94. This ratio is based on an estimated foreground color of #0A9DCD and an estimated background color of #F8F8F8. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.huawei.hwid:id/ok_btn
+The item's text contrast ratio is 1.88. This ratio is based on an estimated foreground color of #999999 and an estimated background color of #D2D2D2. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

@@ -1,0 +1,20 @@
+Text contrast
+com.book.bible.tpt:id/txtMarcadores
+The item's text contrast ratio is 2.95. This ratio is based on an estimated foreground color of #1A6650 and an estimated background color of #EA956E. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+com.book.bible.tpt:id/imbtInvestigar
+The image's contrast ratio is 2.28. This ratio is based on an estimated foreground color of #257E6A and an estimated background color of #FF9656. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.book.bible.tpt:id/imbtComparir
+The image's contrast ratio is 1.28. This ratio is based on an estimated foreground color of #2278E4 and an estimated background color of #488CED. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.book.bible.tpt:id/imbtPromesa
+The image's contrast ratio is 1.27. This ratio is based on an estimated foreground color of #1FAA3D and an estimated background color of #48BD5F. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.book.bible.tpt:id/imbtOtros
+The image's contrast ratio is 2.64. This ratio is based on an estimated foreground color of #309D88 and an estimated background color of #FBE747. Consider increasing this ratio to 3.00 or greater.
+

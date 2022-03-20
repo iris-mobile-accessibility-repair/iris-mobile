@@ -1,0 +1,8 @@
+Text contrast
+[42,101][642,172]
+The item's text contrast ratio is 2.78. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #4CAF50. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.adguard.android.contentblocker:id/install_yandex_browser
+The item's text contrast ratio is 4.12. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #388E3C. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

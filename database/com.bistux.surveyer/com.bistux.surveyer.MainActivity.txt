@@ -1,0 +1,12 @@
+Text contrast
+com.bistux.surveyer:id/side_b
+The item's text contrast ratio is 2.95. This ratio is based on an estimated foreground color of #32A915 and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.bistux.surveyer:id/side_c
+The item's text contrast ratio is 2.97. This ratio is based on an estimated foreground color of #3593FF and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.bistux.surveyer:id/side_a
+The item's text contrast ratio is 3.74. This ratio is based on an estimated foreground color of #FF1809 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

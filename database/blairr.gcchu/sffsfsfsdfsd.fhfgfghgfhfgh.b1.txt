@@ -1,0 +1,4 @@
+Text contrast
+blairr.gcchu:id/button2
+The item's text contrast ratio is 1.86. This ratio is based on an estimated foreground color of #CF6700 and an estimated background color of #92BCD9. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

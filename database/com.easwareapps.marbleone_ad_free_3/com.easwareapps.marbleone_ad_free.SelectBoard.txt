@@ -1,0 +1,8 @@
+Text contrast
+com.easwareapps.marbleone_ad_free:id/btkOk
+The item's text contrast ratio is 2.09. This ratio is based on an estimated foreground color of #949494 and an estimated background color of #D6D6D6. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+com.easwareapps.marbleone_ad_free:id/idImgBoard0
+The image's contrast ratio is 1.66. This ratio is based on an estimated foreground color of #EDEDED and an estimated background color of #BABABA. Consider increasing this ratio to 3.00 or greater.
+

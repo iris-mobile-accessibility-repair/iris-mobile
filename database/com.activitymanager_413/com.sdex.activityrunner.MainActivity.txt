@@ -1,0 +1,36 @@
+Text contrast
+com.activitymanager:id/packageName
+The item's text contrast ratio is 2.32. This ratio is based on an estimated foreground color of #AAAAAA and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.activitymanager:id/packageName
+The item's text contrast ratio is 2.32. This ratio is based on an estimated foreground color of #AAAAAA and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.activitymanager:id/packageName
+The item's text contrast ratio is 2.32. This ratio is based on an estimated foreground color of #AAAAAA and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.activitymanager:id/packageName
+The item's text contrast ratio is 2.32. This ratio is based on an estimated foreground color of #AAAAAA and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.activitymanager:id/packageName
+The item's text contrast ratio is 2.32. This ratio is based on an estimated foreground color of #AAAAAA and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.activitymanager:id/packageName
+The item's text contrast ratio is 2.32. This ratio is based on an estimated foreground color of #AAAAAA and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.activitymanager:id/packageName
+The item's text contrast ratio is 2.32. This ratio is based on an estimated foreground color of #AAAAAA and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.activitymanager:id/packageName
+The item's text contrast ratio is 2.32. This ratio is based on an estimated foreground color of #AAAAAA and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.activitymanager:id/packageName
+The item's text contrast ratio is 2.32. This ratio is based on an estimated foreground color of #AAAAAA and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

@@ -1,0 +1,24 @@
+Text contrast
+com.qrcode.qrmaker.qrreader.qrscanner:id/main_scan_txt
+The item's text contrast ratio is 2.79. This ratio is based on an estimated foreground color of #75819C and an estimated background color of #284143. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.qrcode.qrmaker.qrreader.qrscanner:id/main_generate_txt
+The item's text contrast ratio is 2.79. This ratio is based on an estimated foreground color of #75819C and an estimated background color of #284143. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.qrcode.qrmaker.qrreader.qrscanner:id/main_business_txt
+The item's text contrast ratio is 2.79. This ratio is based on an estimated foreground color of #75819C and an estimated background color of #284143. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.qrcode.qrmaker.qrreader.qrscanner:id/main_history_txt
+The item's text contrast ratio is 2.79. This ratio is based on an estimated foreground color of #75819C and an estimated background color of #284143. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.qrcode.qrmaker.qrreader.qrscanner:id/main_setting_txt
+The item's text contrast ratio is 2.79. This ratio is based on an estimated foreground color of #75819C and an estimated background color of #284143. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+com.qrcode.qrmaker.qrreader.qrscanner:id/ad_remove_main_id
+The image's contrast ratio is 2.68. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #FF7604. Consider increasing this ratio to 3.00 or greater.
+

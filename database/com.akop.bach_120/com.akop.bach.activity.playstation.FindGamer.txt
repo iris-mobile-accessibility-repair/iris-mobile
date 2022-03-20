@@ -1,0 +1,4 @@
+Text contrast
+com.akop.bach:id/add_friend_cancel
+The item's text contrast ratio is 2.69. This ratio is based on an estimated foreground color of #DCDCDC and an estimated background color of #858585. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

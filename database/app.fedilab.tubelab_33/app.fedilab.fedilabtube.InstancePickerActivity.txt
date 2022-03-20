@@ -1,0 +1,8 @@
+Text contrast
+app.fedilab.tubelab:id/pickup_categories
+The item's text contrast ratio is 3.09. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #F2690D. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+app.fedilab.tubelab:id/pickup_languages
+The item's text contrast ratio is 3.09. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #F2690D. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

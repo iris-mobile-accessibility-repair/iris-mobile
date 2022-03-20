@@ -1,0 +1,8 @@
+Text contrast
+android:id/search_src_text
+The item's text contrast ratio is 2.97. This ratio is based on an estimated foreground color of #9FA8DA and an estimated background color of #3F51B5. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.gitlab.mahc9kez.shadowsocks.foss:id/desc
+The item's text contrast ratio is 2.85. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #999999. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

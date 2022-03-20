@@ -1,0 +1,8 @@
+Text contrast
+[42,101][238,172]
+The item's text contrast ratio is 1.88. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #DEB68B. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+com.alaskalinuxuser.justchess:id/fab
+The image's contrast ratio is 2.68. This ratio is based on an estimated foreground color of #8C7B6C and an estimated background color of #E9CDB4. Consider increasing this ratio to 3.00 or greater.
+

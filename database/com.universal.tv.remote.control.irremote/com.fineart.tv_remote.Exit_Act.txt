@@ -1,0 +1,20 @@
+Text contrast
+[432,331][611,382]
+The item's text contrast ratio is 2.81. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #9A9A9A. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[432,557][555,608]
+The item's text contrast ratio is 2.81. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #9A9A9A. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[432,783][601,834]
+The item's text contrast ratio is 2.81. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #9A9A9A. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[432,1009][660,1060]
+The item's text contrast ratio is 2.81. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #9A9A9A. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+com.universal.tv.remote.control.irremote:id/back_btn
+The image's contrast ratio is 1.00. This ratio is based on an estimated foreground color of #1D1D1D and an estimated background color of #1D1D1D. Consider increasing this ratio to 3.00 or greater.
+

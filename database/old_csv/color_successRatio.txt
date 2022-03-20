@@ -1,0 +1,23 @@
+success:
+CheckBox: 0
+ImageButton: 47
+EditText: 21
+Button: 109
+RadioButton: 4
+ToggleButton: 7
+ImageView: 117
+total: 797
+TextView: 490
+View: 2
+
+fail:
+CheckBox: 3
+ImageButton: 7
+EditText: 10
+Button: 36
+RadioButton: 0
+ToggleButton: 0
+ImageView: 68
+total: 223
+TextView: 99
+View: 0

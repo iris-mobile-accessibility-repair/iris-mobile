@@ -1,0 +1,9 @@
+android.widget.Button
+android.widget.TextView
+android.widget.ImageView
+android.widget.ImageButton
+android.widget.RadioButton
+android.widget.CheckBox
+android.widget.ToggleButton
+android.view.View
+android.widget.EditText

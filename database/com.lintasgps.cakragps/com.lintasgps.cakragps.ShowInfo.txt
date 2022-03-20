@@ -1,0 +1,8 @@
+Image contrast
+com.lintasgps.cakragps:id/actionbar_item
+The image's contrast ratio is 1.65. This ratio is based on an estimated foreground color of #878A94 and an estimated background color of #3A5FCC. Consider increasing this ratio to 3.00 or greater.
+
+Image contrast
+com.lintasgps.cakragps:id/btnPhone
+The image's contrast ratio is 2.87. This ratio is based on an estimated foreground color of #04AEDA and an estimated background color of #495949. Consider increasing this ratio to 3.00 or greater.
+

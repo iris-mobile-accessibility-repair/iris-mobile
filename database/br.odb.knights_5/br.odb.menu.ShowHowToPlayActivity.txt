@@ -1,0 +1,20 @@
+Text contrast
+br.odb.knights:id/textView3
+The item's text contrast ratio is 2.79. This ratio is based on an estimated foreground color of #D6D7DF and an estimated background color of #FF0000. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+br.odb.knights:id/textView4
+The item's text contrast ratio is 2.62. This ratio is based on an estimated foreground color of #CDD1DD and an estimated background color of #FF0000. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+br.odb.knights:id/textView5
+The item's text contrast ratio is 3.79. This ratio is based on an estimated foreground color of #F8F9F9 and an estimated background color of #FF0000. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+br.odb.knights:id/textView10
+The item's text contrast ratio is 3.82. This ratio is based on an estimated foreground color of #FF0000 and an estimated background color of #F9FAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+br.odb.knights:id/textView11
+The item's text contrast ratio is 3.82. This ratio is based on an estimated foreground color of #FF0000 and an estimated background color of #F9FAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

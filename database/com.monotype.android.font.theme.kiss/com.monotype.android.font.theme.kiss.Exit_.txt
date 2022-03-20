@@ -1,0 +1,20 @@
+Text contrast
+[36,1597][217,1781]
+The item's text contrast ratio is 2.87. This ratio is based on an estimated foreground color of #5D4A58 and an estimated background color of #AA92AD. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[243,1597][424,1781]
+The item's text contrast ratio is 2.84. This ratio is based on an estimated foreground color of #674A5D and an estimated background color of #AE95AE. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[657,1597][838,1781]
+The item's text contrast ratio is 2.97. This ratio is based on an estimated foreground color of #B592AB and an estimated background color of #5E4A53. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.android.launcher3:id/btn_qsb_search
+The item's text contrast ratio is 4.48. This ratio is based on an estimated foreground color of #525252 and an estimated background color of #C4C4C4. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+[864,1597][1045,1781]
+The item's text contrast ratio is 3.14. This ratio is based on an estimated foreground color of #71CCCC and an estimated background color of #914F72. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

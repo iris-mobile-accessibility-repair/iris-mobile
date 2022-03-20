@@ -1,0 +1,32 @@
+Text contrast
+com.eventyay.organizer:id/description
+The item's text contrast ratio is 2.66. This ratio is based on an estimated foreground color of #9B9B9B and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Image contrast
+[42,1681][127,1766]
+The image's contrast ratio is 1.00. This ratio is based on an estimated foreground color of #2196F3 and an estimated background color of #2196F3. Consider increasing this ratio to 3.00 or greater.
+
+Text contrast
+com.eventyay.organizer:id/name
+The item's text contrast ratio is 2.99. This ratio is based on an estimated foreground color of #2196F3 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+[489,1008][720,1134]
+The item's text contrast ratio is 3.53. This ratio is based on an estimated foreground color of #F44336 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+[489,1313][720,1439]
+The item's text contrast ratio is 3.53. This ratio is based on an estimated foreground color of #F44336 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+[42,1566][272,1681]
+The item's text contrast ratio is 2.99. This ratio is based on an estimated foreground color of #2196F3 and an estimated background color of #FAFAFA. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+android:id/text1
+The item's text contrast ratio is 3.12. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #2196F3. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
+Text contrast
+com.eventyay.organizer:id/btn_next
+The item's text contrast ratio is 3.12. This ratio is based on an estimated foreground color of #FFFFFF and an estimated background color of #2196F3. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+

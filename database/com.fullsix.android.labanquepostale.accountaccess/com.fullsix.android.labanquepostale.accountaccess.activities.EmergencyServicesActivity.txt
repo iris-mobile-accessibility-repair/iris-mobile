@@ -1,0 +1,12 @@
+Text contrast
+[171,472][908,511]
+The item's text contrast ratio is 2.67. This ratio is based on an estimated foreground color of #6C98C4 and an estimated background color of #2B4D94. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.fullsix.android.labanquepostale.accountaccess:id/credit_card_call_france_button
+The item's text contrast ratio is 1.68. This ratio is based on an estimated foreground color of #92DC19 and an estimated background color of #3CB01A. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.fullsix.android.labanquepostale.accountaccess:id/credit_card_call_foreign_button
+The item's text contrast ratio is 1.68. This ratio is based on an estimated foreground color of #92DC19 and an estimated background color of #3CB01A. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

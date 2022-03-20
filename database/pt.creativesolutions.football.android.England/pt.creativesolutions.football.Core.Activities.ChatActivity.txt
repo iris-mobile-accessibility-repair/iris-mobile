@@ -1,0 +1,4 @@
+Text contrast
+pt.creativesolutions.football.android.England:id/loading_message
+The item's text contrast ratio is 1.53. This ratio is based on an estimated foreground color of #BEBEBE and an estimated background color of #E9E9E9. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

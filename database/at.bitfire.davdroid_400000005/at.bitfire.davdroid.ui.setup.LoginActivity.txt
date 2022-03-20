@@ -1,0 +1,12 @@
+Text contrast
+at.bitfire.davdroid:id/loginEmailAddress
+The item's text contrast ratio is 2.65. This ratio is based on an estimated foreground color of #939393 and an estimated background color of #EEEEEE. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+at.bitfire.davdroid:id/loginEmailPassword
+The item's text contrast ratio is 2.65. This ratio is based on an estimated foreground color of #939393 and an estimated background color of #EEEEEE. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+at.bitfire.davdroid:id/login
+The item's text contrast ratio is 2.50. This ratio is based on an estimated foreground color of #7CB342 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

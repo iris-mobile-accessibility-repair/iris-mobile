@@ -1,0 +1,16 @@
+Text contrast
+cl.coders.faketraveler:id/editText1
+The item's text contrast ratio is 2.66. This ratio is based on an estimated foreground color of #9B9B9B and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+cl.coders.faketraveler:id/button1
+The item's text contrast ratio is 1.14. This ratio is based on an estimated foreground color of #CACACA and an estimated background color of #D6D7D7. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[28,356][112,443]
+The item's text contrast ratio is 2.14. This ratio is based on an estimated foreground color of #B1B1B1 and an estimated background color of #FFFFFF. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+[28,438][112,522]
+The item's text contrast ratio is 2.48. This ratio is based on an estimated foreground color of #5EA6C0 and an estimated background color of #F4F4F4. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

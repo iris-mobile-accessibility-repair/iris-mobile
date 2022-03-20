@@ -1,0 +1,16 @@
+Text contrast
+app.fedilab.tubelab:id/login_instance
+The item's text contrast ratio is 2.96. This ratio is based on an estimated foreground color of #F2690D and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+app.fedilab.tubelab:id/instance_help
+The item's text contrast ratio is 2.96. This ratio is based on an estimated foreground color of #FAFAFA and an estimated background color of #F2690D. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+app.fedilab.tubelab:id/password_confirm
+The item's text contrast ratio is 2.66. This ratio is based on an estimated foreground color of #9B9B9B and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+app.fedilab.tubelab:id/signup
+The item's text contrast ratio is 2.96. This ratio is based on an estimated foreground color of #FAFAFA and an estimated background color of #F2690D. Consider increasing this item's text contrast ratio to 3.00 or greater.
+

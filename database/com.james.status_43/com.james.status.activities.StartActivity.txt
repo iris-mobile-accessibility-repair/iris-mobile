@@ -1,0 +1,32 @@
+Text contrast
+com.james.status:id/textViewSubLabel
+The item's text contrast ratio is 2.63. This ratio is based on an estimated foreground color of #9C9C9C and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.james.status:id/textViewLabel
+The item's text contrast ratio is 1.80. This ratio is based on an estimated foreground color of #BDBDBD and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.james.status:id/textViewSubLabel
+The item's text contrast ratio is 1.80. This ratio is based on an estimated foreground color of #BDBDBD and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.james.status:id/textViewLabel
+The item's text contrast ratio is 1.80. This ratio is based on an estimated foreground color of #BDBDBD and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.james.status:id/textViewSubLabel
+The item's text contrast ratio is 1.80. This ratio is based on an estimated foreground color of #BDBDBD and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.james.status:id/textViewLabel
+The item's text contrast ratio is 1.80. This ratio is based on an estimated foreground color of #BDBDBD and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.james.status:id/textViewSubLabel
+The item's text contrast ratio is 1.80. This ratio is based on an estimated foreground color of #BDBDBD and an estimated background color of #FAFAFA. Consider increasing this item's text contrast ratio to 3.00 or greater.
+
+Text contrast
+com.james.status:id/buttonContinue
+The item's text contrast ratio is 3.18. This ratio is based on an estimated foreground color of #FAFAFA and an estimated background color of #448AFF. Consider using a contrast ratio greater than 4.50 for small text, or 3.00 for large text.
+
