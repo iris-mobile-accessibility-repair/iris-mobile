@@ -8,7 +8,7 @@ The goal of Iris is to automatically repair the color-based accessibility issues
 * Java environment (jdk): jdk1.8.0_45
 
 ## Usage
-The **code_Release** folder is the resource code of this project, where **main.py** is used to build the reference database, and **repair_repack_class.py** is used to automatically repair the input app.
+The **code_Release** folder is the resource code of this project, where **main.py** is used to build the reference database, and **repair_repack_class.py** is used to automatically repair the input app. And the **database** folder is a part of the reference database that has been built.
 * Input: the apk resource file and the detection results(detect by Xbot) of an app
 * Output: a new apk file repaired by Iris
 * Usage: python main.py [results_folder], python repair_repack_class.py [apk(s)_folder]
