@@ -1,4 +1,5 @@
 # iris-mobile
+## Iris: Automated and Context-Aware Repair of Color-Related Accessibility Issues for Android Apps
 The goal of Iris is to automatically repair the color-based accessibility issues in Android apps while maintaining the original UI design style of the repaired app as much as possible. We have made the source code of Iris and the corresponding dataset publicly available. We hope this project can help more developers solve the problem of color-based accessibility issues. Please feel free to contact us if you have any questions and issues. We will continue to maintain this project. Thanks for your feedback.
 
 ## Environment Configuration
